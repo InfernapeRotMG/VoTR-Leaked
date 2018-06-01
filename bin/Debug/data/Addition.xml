@@ -1,0 +1,287 @@
+﻿<ExtData>
+  <Object ext="true" id="The Golden Cup of Nutella">
+    <Class>Equipment</Class>
+    <Item/>
+    <SlotType>10</SlotType>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1d</Index>
+    </Texture>
+    <Description>A galatic blend of hazelnuts and chocolate that will levitate your pet to heights not known before.</Description>
+    <BagType>6</BagType>
+    <feedPower>133700000</feedPower>
+    <Potion/>
+    <Soulbound/>
+  </Object>
+  <Object ext="true" id="Darkfalcoo's Super Fry">
+    <Class>Equipment</Class>
+    <Item/>
+    <SlotType>10</SlotType>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Description>A fry made from the Super GODS, it gives you light if you drink it, but beware of its death!</Description>
+    <BagType>6</BagType>
+    <feedPower>1999999999</feedPower>
+    <Potion/>
+    <Soulbound/>
+  </Object>
+  <Object ext="true" id="Darkfalcoo's Super Fry 2">
+    <Class>Equipment</Class>
+    <Item/>
+    <SlotType>10</SlotType>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1e</Index>
+    </Texture>
+    <Description>The Most Useless Fry of the ALL!</Description>
+    <BagType>6</BagType>
+    <feedPower>100</feedPower>
+    <Potion/>
+    <Soulbound/>
+  </Object>
+  <Object ext="true" id="Trolleon">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x25</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>This relic can be shattered. Once shattered it causes the mortal to become borderline invinvible. Such item is hardly obtainable and should be used wisely.</Description>
+    <Sound>use_potion</Sound>
+    <Activate stat="20" amount="0">IncrementStat</Activate>
+    <Activate stat="21" amount="0">IncrementStat</Activate>
+    <Activate stat="22" amount="0">IncrementStat</Activate>
+    <Activate stat="26" amount="0">IncrementStat</Activate>
+    <Activate stat="27" amount="0">IncrementStat</Activate>
+    <Activate stat="28" amount="0">IncrementStat</Activate>
+    <Activate stat="0" amount="0">IncrementStat</Activate>
+    <Activate stat="3" amount="0">IncrementStat</Activate>
+    <Consumable/>
+    <Potion/>
+    <DisplayId>Eon</DisplayId>
+    <BagType>6</BagType>
+  </Object>
+<Object ext="true" id="Trolleon1">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x25</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>This relic can be shattered. Once shattered it causes the mortal to become borderline invinvible. Such item is hardly obtainable and should be used wisely.</Description>
+    <Sound>use_potion</Sound>
+    <Activate stat="20" amount="0">IncrementStat</Activate>
+    <Activate stat="21" amount="0">IncrementStat</Activate>
+    <Activate stat="22" amount="0">IncrementStat</Activate>
+    <Activate stat="26" amount="0">IncrementStat</Activate>
+    <Activate stat="27" amount="0">IncrementStat</Activate>
+    <Activate stat="28" amount="0">IncrementStat</Activate>
+    <Activate stat="0" amount="0">IncrementStat</Activate>
+    <Activate stat="3" amount="0">IncrementStat</Activate>
+    <Consumable/>
+    <Potion/>
+    <DisplayId>A Genuine Eon</DisplayId>
+    <BagType>6</BagType>
+  </Object>
+<Object ext="true" id="Trolleon2">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x25</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>This relic can be shattered. Once shattered it causes the mortal to become borderline invinvible. Such item is hardly obtainable and should be used wisely.</Description>
+    <Sound>use_potion</Sound>
+    <Activate stat="20" amount="0">IncrementStat</Activate>
+    <Activate stat="21" amount="0">IncrementStat</Activate>
+    <Activate stat="22" amount="0">IncrementStat</Activate>
+    <Activate stat="26" amount="0">IncrementStat</Activate>
+    <Activate stat="27" amount="0">IncrementStat</Activate>
+    <Activate stat="28" amount="0">IncrementStat</Activate>
+    <Activate stat="0" amount="0">IncrementStat</Activate>
+    <Activate stat="3" amount="0">IncrementStat</Activate>
+    <Consumable/>
+    <Potion/>
+    <DisplayId>A True Eon</DisplayId>
+    <BagType>6</BagType>
+  </Object>
+<Object ext="true" id="Trolleon3">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x25</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>This relic can be shattered. Once shattered it causes the mortal to become borderline invinvible. Such item is hardly obtainable and should be used wisely.</Description>
+    <Sound>use_potion</Sound>
+    <Activate stat="20" amount="0">IncrementStat</Activate>
+    <Activate stat="21" amount="0">IncrementStat</Activate>
+    <Activate stat="22" amount="0">IncrementStat</Activate>
+    <Activate stat="26" amount="0">IncrementStat</Activate>
+    <Activate stat="27" amount="0">IncrementStat</Activate>
+    <Activate stat="28" amount="0">IncrementStat</Activate>
+    <Activate stat="0" amount="0">IncrementStat</Activate>
+    <Activate stat="3" amount="0">IncrementStat</Activate>
+    <Consumable/>
+    <Potion/>
+    <DisplayId>A Legit Eon</DisplayId>
+    <BagType>6</BagType>
+  </Object>
+<Object ext="true" id="Trolleon4">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x25</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>This relic can be shattered. Once shattered it causes the mortal to become borderline invinvible. Such item is hardly obtainable and should be used wisely.</Description>
+    <Sound>use_potion</Sound>
+    <Activate stat="20" amount="0">IncrementStat</Activate>
+    <Activate stat="21" amount="0">IncrementStat</Activate>
+    <Activate stat="22" amount="0">IncrementStat</Activate>
+    <Activate stat="26" amount="0">IncrementStat</Activate>
+    <Activate stat="27" amount="0">IncrementStat</Activate>
+    <Activate stat="28" amount="0">IncrementStat</Activate>
+    <Activate stat="0" amount="0">IncrementStat</Activate>
+    <Activate stat="3" amount="0">IncrementStat</Activate>
+    <Consumable/>
+    <Potion/>
+    <DisplayId>A Real Eon</DisplayId>
+    <BagType>6</BagType>
+  </Object>
+  <Object ext="true" id="Task Tablet: Inactive">
+    <Class>Equipment</Class>
+    <Item/>
+    <SlotType>10</SlotType>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x17d</Index>
+    </Texture>
+    <Description>This task tablet is currently empty. Activate it using a Sor Crystal.</Description>
+    <Task/>
+    <BagType>9</BagType>
+    <Sound>spell/fire_nova</Sound>
+    <DisplayId>Task Tablet: Inactive</DisplayId>
+  </Object>
+  <Object ext="true" id="Genisus Shard">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1b8</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An rare shard from the Genisus core. This relic has the ability to power any machine with unlimited energy.</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Can be used for completing active task or turning in for fortune tokens."/>
+    </ExtraTooltipData>
+    <BagType>9</BagType>
+  </Object>
+  <Object ext="true" id="Revulsion Sphere">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1b5</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Fear is nothing more than a feeling.</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Used to complete task."/>
+    </ExtraTooltipData>
+    <BagType>9</BagType>
+  </Object>
+  <Object ext="true" id="Upsurge Sphere">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1b4</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An uplifting feeling is in the air.</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Used to complete task."/>
+    </ExtraTooltipData>
+    <BagType>9</BagType>
+  </Object>
+  <Object ext="true" id="Prospect Sphere">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1b3</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Hope lies within.</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Used to complete task or open a legendary lockbox."/>
+    </ExtraTooltipData>
+    <BagType>9</BagType>
+  </Object>
+  <Object text="true" id="Dark Matter">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1be</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Slightly strange looking at first..but you get used to it.</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Used to complete task."/>
+    </ExtraTooltipData>
+    <BagType>9</BagType>
+  </Object>
+  <Object ext="true" id="Amber Pearl">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1e3</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>A shine glistens as you hold this pearl to light. Maybe a bit too bright.</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Used to complete task."/>
+    </ExtraTooltipData>
+    <BagType>9</BagType>
+    <Rare/>
+  </Object>
+  <Object ext="true" id="Loxuran Core">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1e4</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>An essential item needed to enchant items.</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Used to complete task or repair items used to enchant."/>
+    </ExtraTooltipData>
+    <Rare/>
+    <BagType>9</BagType>
+  </Object>
+  <Object ext="true" id="Gargaran">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>d3LofiObjEmbed</File>
+      <Index>0x1e5</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Description>Extremely fragile, when crushed it becomes a black dust. Portable gunpowder?</Description>
+    <ExtraTooltipData>
+      <EffectInfo name="" description="Used to complete task."/>
+    </ExtraTooltipData>
+    <BagType>9</BagType>
+  </Object>
+</ExtData>

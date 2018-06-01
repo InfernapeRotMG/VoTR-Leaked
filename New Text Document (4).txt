@@ -1,0 +1,53 @@
+-Premium Membership-
+
+Set Amount of Kantos:
+$5
+- 500 Kantos
+- 72 Hour Membership
+- 500 Gold
+$10
+- 1200 Kantos
+- Week Membership
+- 1200 Gold
+$20
+- 2600 Kantos
+- 1 Month Membership
+- 2600 Gold
+$50
+- 7000 Kantos
+- 6 Month Membership
+- 7000 Gold
+$100
+- 16000 Kantos
+- 12 Month Membership
+- 16000 Gold
+
+(Memberships DO NOT Stack.)
+
+-What You Get-
+
+Membership Tag
+- Special Tag Next to Your Name
+- Maximum 4-Char
+
+Premium Loot Drop/Tier Potions
+- 45 Minutes
+- 2x Normal Drop-Rates
+- 50% Better Drops
+- One of Each per Day
+
+Special Skins and Lockboxes
+- 10% Chance of Getting PREMIUM Lockbox per Day
+- Free REGULAR Lockbox Everyday
+
+Pet SURGE
+- Free MAXED Uncommon Pet of Your Choice
+- Default Stats (Heal, MHeal, Electric)
+
+"/set" Command
+- Spawns in a High-Tiered SB Set for Your Class
+- [T10, T5, T11, T4 HP Ring]
+- NO FEED POWER
+
+DoubleXP
+- Always Have DoubleXP (even past level 20)

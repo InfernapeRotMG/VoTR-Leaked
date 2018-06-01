@@ -1,0 +1,8 @@
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/obj/Debug/DungeonGenerator.Templates.Abyss.template.jm
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/obj/Debug/DungeonGenerator.Templates.Lab.template.jm
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/bin/Debug/DungeonGen.pdb
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/bin/Debug/DungeonGen.dll
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/obj/Debug/DungeonGen.dll
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/obj/Debug/DungeonGen.pdb
+/home/chasenorwood/Desktop/votr-server/master/votr/DungeonGen/bin/Debug/RotMG.Common.dll

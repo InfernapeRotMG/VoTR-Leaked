@@ -1,0 +1,16 @@
+/home/chasenorwood/Desktop/votr-server/master/votr/db/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/data/Addition.xml
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/data/dat0.xml
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/data/dat1.xml
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/data/EquipmentSets.xml
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/bannednames.txt
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/UnlockedAccounts.txt
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/db.dll.config
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/db.pdb
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/db.dll
+/home/chasenorwood/Desktop/votr-server/master/votr/db/obj/Debug/db.dll
+/home/chasenorwood/Desktop/votr-server/master/votr/db/obj/Debug/db.pdb
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/Ionic.ZLib.dll
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/log4net.dll
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/MySql.Data.dll
+/home/chasenorwood/Desktop/votr-server/master/votr/db/bin/Debug/Newtonsoft.Json.dll

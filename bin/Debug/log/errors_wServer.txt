@@ -1,0 +1,415 @@
+﻿2017-08-09 13:40:22,772 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 13:40:22,794 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 13:40:22,812 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 13:40:22,843 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 13:40:22,849 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 13:55:52,375 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 13:55:52,410 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 13:55:52,430 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 13:55:52,451 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 13:55:52,453 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 14:00:41,392 [Entry] FATAL Server - System.ArgumentException: Key with name 'Task Tablet' has already been added (with value ' Inactive:58008')
+  at db.SimpleSettings..ctor (System.String id) [0x00105] in <2a4b56f3af0542a88e5e25132f2354c0>:0 
+  at db.data.XmlData+AutoAssign..ctor (db.data.XmlData dat) [0x00000] in <2a4b56f3af0542a88e5e25132f2354c0>:0 
+  at db.data.XmlData..ctor (System.String path) [0x00192] in <2a4b56f3af0542a88e5e25132f2354c0>:0 
+  at wServer.realm.RealmManager.Initialize () [0x00011] in <f7e21646ae974ed9a6c16e5a9c4b7a29>:0 
+  at wServer.Program.Main (System.String[] args) [0x0011e] in <f7e21646ae974ed9a6c16e5a9c4b7a29>:0 
+2017-08-09 14:01:01,927 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 14:01:01,949 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 14:01:01,990 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 14:01:02,036 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 14:01:02,043 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 14:02:03,463 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:60 count:434 time:61548 tps:7.05140703191005
+2017-08-09 14:07:20,380 [Entry] FATAL Server - System.ArgumentException: Key with name 'Task Tablet' has already been added (with value ' Inactive:58008')
+  at db.SimpleSettings..ctor (System.String id) [0x00105] in <3bf256b750514e20a66fcf76de209611>:0 
+  at db.data.XmlData+AutoAssign..ctor (db.data.XmlData dat) [0x00000] in <3bf256b750514e20a66fcf76de209611>:0 
+  at db.data.XmlData..ctor (System.String path) [0x00192] in <3bf256b750514e20a66fcf76de209611>:0 
+  at wServer.realm.RealmManager.Initialize () [0x00011] in <94b3d1e966d14b92a39b849ef7fdd63b>:0 
+  at wServer.Program.Main (System.String[] args) [0x0011e] in <94b3d1e966d14b92a39b849ef7fdd63b>:0 
+2017-08-09 14:07:39,741 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 14:07:39,767 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 14:07:39,791 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 14:07:39,807 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 14:07:39,808 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 14:08:43,180 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:23 count:448 time:63497 tps:7.05545143865065
+2017-08-09 14:17:41,786 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 14:17:41,809 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 14:17:41,838 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 14:17:41,861 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 14:17:41,862 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 14:18:43,503 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:113 count:435 time:61741 tps:7.04556129638328
+2017-08-09 14:29:26,912 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 14:29:26,937 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 14:29:26,959 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 14:29:27,016 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 14:29:27,017 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 14:30:49,150 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:40 count:580 time:82258 tps:7.0509859223419
+2017-08-09 14:31:34,737 [Logic] ERROR wServer.realm.commands.Command - Error when executing the command.
+System.InvalidOperationException: Sequence contains no elements
+  at System.Linq.Enumerable.Aggregate[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`3[T1,T2,TResult] func) [0x00030] in <26aedeede9534b948c539f8734c8492d>:0 
+  at wServer.realm.commands.KillAll.Process (wServer.realm.entities.player.Player player, wServer.realm.RealmTime time, System.String[] args) [0x00036] in <3d873dc2d8cb4174bf074708cc46e30a>:0 
+  at wServer.realm.commands.Command.Execute (wServer.realm.entities.player.Player player, wServer.realm.RealmTime time, System.String args) [0x00038] in <3d873dc2d8cb4174bf074708cc46e30a>:0 
+2017-08-09 14:36:50,949 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 14:36:50,979 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 14:36:51,024 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 14:36:51,086 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 14:36:51,090 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 14:42:17,426 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:52 count:2300 time:326511 tps:7.04417309064626
+2017-08-09 14:46:02,371 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 14:46:02,403 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 14:46:02,428 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 14:46:02,479 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 14:46:02,483 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 14:46:16,363 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:100 count:99 time:14016 tps:7.06335616438356
+2017-08-09 14:48:58,522 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:94 count:1241 time:176175 tps:7.04413225486022
+2017-08-09 15:12:12,613 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 15:12:12,672 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 15:12:12,680 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 15:12:12,696 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 15:12:12,697 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 15:15:05,651 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:111 count:1219 time:173070 tps:7.04339284682498
+2017-08-09 15:17:39,209 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:25 count:2301 time:326628 tps:7.04471141482053
+2017-08-09 15:23:53,847 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 15:23:53,896 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 15:23:53,909 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 15:23:53,925 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 15:23:53,926 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 15:26:49,878 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:132 count:1240 time:176073 tps:7.04253349463007
+2017-08-09 15:28:26,269 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:104 count:1919 time:272464 tps:7.04313230371719
+2017-08-09 15:39:22,499 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:8 count:6541 time:928694 tps:7.04322414056729
+2017-08-09 16:17:03,857 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 16:17:03,888 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 16:17:03,898 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 16:17:03,922 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 16:17:03,927 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 16:41:31,246 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 16:41:31,284 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 16:41:31,291 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 16:41:31,303 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 16:41:31,305 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 16:43:10,128 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:50 count:697 time:98885 tps:7.04859179855388
+2017-08-09 16:44:27,495 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:49 count:1242 time:176274 tps:7.04584907587052
+2017-08-09 16:51:59,085 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:5 dt:72 count:4422 time:627864 tps:7.04292649363556
+2017-08-09 16:54:29,527 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:136 count:5481 time:778307 tps:7.04220828028015
+2017-08-09 16:57:47,619 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:138 count:6876 time:976399 tps:7.04220303380073
+2017-08-09 16:59:07,243 [Logic] ERROR wServer.realm.LogicTicker - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at wServer.realm.entities.player.Player.Activate (wServer.realm.RealmTime time, db.data.Item item, wServer.networking.cliPackets.UseItemPacket pkt) [0x02b06] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+  at wServer.networking.handlers.UseItemHandler+<>c__DisplayClass2_0.<HandlePacket>b__0 (wServer.realm.RealmTime t) [0x008b7] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+  at wServer.realm.LogicTicker.TickLoop () [0x00144] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+2017-08-09 16:59:11,247 [Logic] ERROR wServer.realm.LogicTicker - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at wServer.realm.entities.player.Player.Activate (wServer.realm.RealmTime time, db.data.Item item, wServer.networking.cliPackets.UseItemPacket pkt) [0x02b06] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+  at wServer.networking.handlers.UseItemHandler+<>c__DisplayClass2_0.<HandlePacket>b__0 (wServer.realm.RealmTime t) [0x008b7] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+  at wServer.realm.LogicTicker.TickLoop () [0x00144] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+2017-08-09 16:59:12,657 [Logic] ERROR wServer.realm.LogicTicker - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+  at wServer.realm.entities.player.Player.Activate (wServer.realm.RealmTime time, db.data.Item item, wServer.networking.cliPackets.UseItemPacket pkt) [0x02b06] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+  at wServer.networking.handlers.UseItemHandler+<>c__DisplayClass2_0.<HandlePacket>b__0 (wServer.realm.RealmTime t) [0x008b7] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+  at wServer.realm.LogicTicker.TickLoop () [0x00144] in <d81cedefbe454873be6c7f9c20b4e006>:0 
+2017-08-09 17:04:31,778 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:21 count:9723 time:1380557 tps:7.04280953267413
+2017-08-09 17:17:03,989 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:55 count:15020 time:2132769 tps:7.04248795814268
+2017-08-09 18:34:48,127 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:29 count:47866 time:6796907 tps:7.04232086741808
+2017-08-09 18:36:36,112 [Entry] ERROR wServer.networking.PolicyServer - System.Net.Sockets.SocketException (0x80004005): Address already in use
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) [0x00043] in <2b0d86369d72459baed0cee98a8e578a>:0 
+  at System.Net.Sockets.TcpListener.Start (System.Int32 backlog) [0x00044] in <2b0d86369d72459baed0cee98a8e578a>:0 
+  at System.Net.Sockets.TcpListener.Start () [0x00000] in <2b0d86369d72459baed0cee98a8e578a>:0 
+  at wServer.networking.PolicyServer.Start () [0x00012] in <6eb67138fe124fd3bbb000aef97f9a9c>:0 
+2017-08-09 18:36:36,117 [Entry] WARN  wServer.networking.PolicyServer - Could not start Socket Policy Server, is port 843 occupied?
+2017-08-09 18:36:36,118 [Entry] FATAL Server - System.Net.Sockets.SocketException (0x80004005): Address already in use
+  at System.Net.Sockets.Socket.Bind (System.Net.EndPoint localEP) [0x00043] in <2b0d86369d72459baed0cee98a8e578a>:0 
+  at wServer.networking.Server.Start () [0x00031] in <6eb67138fe124fd3bbb000aef97f9a9c>:0 
+  at wServer.Program.Main (System.String[] args) [0x00171] in <6eb67138fe124fd3bbb000aef97f9a9c>:0 
+2017-08-09 18:37:59,011 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 18:37:59,032 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 18:37:59,044 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 18:37:59,060 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 18:37:59,061 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 18:39:30,401 [Entry] FATAL Server - System.IO.IOException: Invalid handle to path "/home/chasenorwood/Desktop/votr-server/master/votr/bin/Debug/[Unknown]"
+  at System.IO.FileStream.ReadData (System.Runtime.InteropServices.SafeHandle safeHandle, System.Byte[] buf, System.Int32 offset, System.Int32 count) [0x0002d] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.IO.FileStream.ReadInternal (System.Byte[] dest, System.Int32 offset, System.Int32 count) [0x00026] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.IO.FileStream.Read (System.Byte[] array, System.Int32 offset, System.Int32 count) [0x000a1] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.IO.StreamReader.ReadBuffer () [0x000b3] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.IO.StreamReader.Read () [0x00021] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.TermInfoDriver.ReadKeyInternal (System.Boolean& fresh) [0x00083] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.TermInfoDriver.ReadKey (System.Boolean intercept) [0x00000] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.ConsoleDriver.ReadKey (System.Boolean intercept) [0x00000] in <a07d6bf484a54da2861691df910339b1>:0 
+  at System.Console.ReadKey (System.Boolean intercept) [0x00000] in <a07d6bf484a54da2861691df910339b1>:0 
+  at wServer.Program.Main (System.String[] args) [0x002e8] in <6eb67138fe124fd3bbb000aef97f9a9c>:0 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         2017-08-09 18:44:43,303 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 18:44:43,341 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 18:44:43,351 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 18:44:43,394 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 18:44:43,400 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-08-09 18:59:01,940 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-08-09 18:59:01,958 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-08-09 18:59:01,977 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-08-09 18:59:02,038 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-08-09 18:59:02,047 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 13:39:08,451 [Entry] FATAL Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'root'@'localhost' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at db.Database..ctor(String host, String database, String user, String password) in C:\Users\darkd\Desktop\New folder (3)\master\votr\db\Database.cs:line 51
+   at wServer.Program.Main(String[] args) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\Program.cs:line 43
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 0x57b4 and 0x56b3 has the same name of Panda Pet Skin!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'King Boo Pet Skin' and 'Pumpkin King of Peril' has the same ID of 0x57b6!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'Dark Reaper Pet Skin' and 'Pumpkin Seed Bullet' has the same ID of 0x57b7!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'Green Dragon Pet Skin' and 'Skull Helm' has the same ID of 0x57b8!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'Evil Skull Pet Skin' and 'Colossal Skull' has the same ID of 0x57b9!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'ExaDrago Pet Skin' and 'Phen Disc' has the same ID of 0x57ba!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'Anglerfish Pet Skin' and 'Indecisive Power' has the same ID of 0x57bb!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'Kirby Pet Skin' and 'Staff of Indecisive Maneuvers' has the same ID of 0x57bc!
+2017-09-02 13:40:59,005 [Entry] WARN  db.data.XmlData - 'Parasite Pet Skin' and 'Blueshade Shield' has the same ID of 0x57bd!
+2017-09-02 13:40:59,006 [Entry] WARN  db.data.XmlData - 'Cosmic Wanderer Pet Skin' and 'Bedder Shield' has the same ID of 0x57be!
+2017-09-02 13:40:59,006 [Entry] WARN  db.data.XmlData - 'Squid God Pet Skin' and 'Flamebred Robe' has the same ID of 0x57bf!
+2017-09-02 13:41:01,767 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 13:41:01,771 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 13:41:01,774 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 13:41:01,780 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 13:41:01,781 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 13:59:02,702 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:9 dt:136 count:5405 time:1080941 tps:5.00027291036236
+2017-09-02 13:59:03,621 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:5 dt:55 count:5410 time:1081860 tps:5.00064703381214
+2017-09-02 14:03:38,745 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 14:03:38,751 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 14:03:38,754 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 14:03:38,759 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 14:03:38,760 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 14:41:19,559 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:1 count:11305 time:2260818 tps:5.00040250918031
+2017-09-02 15:28:01,106 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 15:28:01,114 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 15:28:01,117 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 15:28:01,123 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 15:28:01,125 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 15:44:09,737 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:5 dt:22 count:4844 time:968633 tps:5.00086203959601
+2017-09-02 15:44:39,993 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:78 count:4995 time:998890 tps:5.00055061117841
+2017-09-02 16:30:13,514 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 16:30:13,538 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 16:30:13,573 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 16:30:13,592 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 16:30:13,608 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 17:00:46,570 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 17:00:46,575 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 17:00:46,578 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 17:00:46,586 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 17:00:46,587 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 17:01:46,130 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:5 dt:188 count:298 time:59588 tps:5.00100691414379
+2017-09-02 17:01:47,194 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:6 dt:52 count:304 time:60652 tps:5.01220075183011
+2017-09-02 17:01:51,515 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:7 dt:173 count:325 time:64973 tps:5.00207778615733
+2017-09-02 17:07:19,702 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 17:07:19,715 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 17:07:19,720 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 17:07:19,746 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 17:07:19,757 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 17:07:34,784 [8] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:07:39,040 [8] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:09:19,070 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 17:09:19,093 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 17:09:19,109 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 17:09:19,118 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 17:09:19,126 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 17:09:42,878 [9] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:09:45,500 [10] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:09:46,121 [11] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:09:46,538 [9] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:09:46,747 [8] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:14:44,814 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 17:14:44,819 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 17:14:44,824 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 17:14:44,829 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 17:14:44,830 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 17:15:00,486 [9] ERROR wServer.realm.DatabaseTicker - System.InvalidOperationException: Connection must be valid and open.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at wServer.realm.entities.player.Player.<>c__DisplayClass119_3.<Activate>b__37(Database db) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\entities\player\Player.UseItem.cs:line 1392
+   at wServer.realm.DatabaseTicker.<>c__DisplayClass3_0.<DoActionAsync>b__0() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\DatabaseTicker.cs:line 28
+2017-09-02 17:17:12,326 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 17:17:12,329 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 17:17:12,333 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 17:17:12,344 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 17:17:12,345 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 17:43:15,593 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 17:43:15,597 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 17:43:15,602 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 17:43:15,626 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 17:43:15,628 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-02 18:27:47,679 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-02 18:27:47,688 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-02 18:27:47,691 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-02 18:27:47,697 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-02 18:27:47,699 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-03 15:35:14,444 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-03 15:35:14,453 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-03 15:35:14,455 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-03 15:35:14,460 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-03 15:35:14,460 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-03 15:38:56,291 [Logic] ERROR wServer.realm.commands.Command - Error when executing the command.
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at wServer.realm.commands.GiveCommand.Process(Player player, RealmTime time, String[] args) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\commands\AdminCommands.cs:line 925
+   at wServer.realm.commands.Command.Execute(Player player, RealmTime time, String args) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\commands\Command.cs:line 61
+2017-09-03 15:39:00,907 [Logic] ERROR wServer.realm.commands.Command - Error when executing the command.
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at wServer.realm.commands.GiveCommand.Process(Player player, RealmTime time, String[] args) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\commands\AdminCommands.cs:line 925
+   at wServer.realm.commands.Command.Execute(Player player, RealmTime time, String args) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\commands\Command.cs:line 61
+2017-09-03 18:37:10,500 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-03 18:37:10,504 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-03 18:37:10,506 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-03 18:37:10,520 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-03 18:37:10,522 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-03 22:16:36,171 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-03 22:16:36,187 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-03 22:16:36,190 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-03 22:16:36,195 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-03 22:16:36,195 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-03 22:21:36,788 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:18 count:1504 time:300618 tps:5.00302709751246
+2017-09-03 22:22:04,872 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:5 dt:102 count:1644 time:328702 tps:5.00149071195186
+2017-09-03 22:22:37,008 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:38 count:1805 time:360838 tps:5.00224477466342
+2017-09-03 22:23:45,572 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:2 count:2148 time:429402 tps:5.00230553187922
+2017-09-03 22:24:05,012 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:42 count:2245 time:448842 tps:5.00176008484055
+2017-09-03 22:24:05,820 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:50 count:2249 time:449650 tps:5.00166796397198
+2017-09-03 22:24:25,380 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:10 count:2347 time:469210 tps:5.00202467978091
+2017-09-03 22:24:27,027 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:58 count:2355 time:470858 tps:5.00150788560458
+2017-09-03 22:24:36,693 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:123 count:2403 time:480523 tps:5.00080121034789
+2017-09-03 22:24:37,638 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:5 dt:68 count:2408 time:481468 tps:5.00137080761338
+2017-09-03 22:24:42,241 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:71 count:2431 time:486071 tps:5.00132696663656
+2017-09-03 22:26:55,603 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:32 count:3098 time:619434 tps:5.00133993290649
+2017-09-03 22:29:23,376 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:4 count:3837 time:767207 tps:5.00125780917015
+2017-09-03 22:29:39,235 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:62 count:3916 time:783065 tps:5.00086199740762
+2017-09-03 22:29:40,606 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:34 count:3923 time:784437 tps:5.00103896170119
+2017-09-03 22:32:52,661 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:87 count:4883 time:976492 tps:5.00055299992217
+2017-09-03 22:32:58,475 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:100 count:4912 time:982306 tps:5.000478465977
+2017-09-03 22:32:59,670 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:94 count:4918 time:983500 tps:5.00050838840874
+2017-09-03 22:33:00,565 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:189 count:4922 time:984395 tps:5.00002539630941
+2017-09-03 22:34:36,792 [Logic] WARN  wServer.realm.LogicTicker - LAGGED!| time:4 dt:16 count:5404 time:1080622 tps:5.00082359974163
+2017-09-04 08:28:21,568 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-04 08:28:21,582 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-04 08:28:21,585 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-04 08:28:21,588 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-04 08:28:21,588 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-04 18:50:15,156 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-04 18:50:15,161 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-04 18:50:15,163 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-04 18:50:15,190 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-04 18:50:15,191 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-04 21:24:03,065 [Entry] FATAL Server - System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at wServer.logic.behaviors.TransformOnDeath..ctor(String target, Int32 min, Int32 max, Double probability, Boolean returnToSpawn) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\logic\behaviors\TransformOnDeath.cs:line 20
+   at wServer.logic.BehaviorDb.<>c.<.ctor>b__63_37() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\logic\db\BehaviorDb.Palace.cs:line 10
+   at wServer.logic.BehaviorDb..ctor(RealmManager manager) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\logic\BehaviorDb.cs:line 64
+   at wServer.realm.RealmManager.Initialize() in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\realm\RealmManager.cs:line 230
+   at wServer.Program.Main(String[] args) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\Program.cs:line 57
+2017-09-04 21:25:02,483 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-04 21:25:02,487 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-04 21:25:02,490 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-04 21:25:02,497 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-04 21:25:02,498 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-04 21:28:49,541 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-04 21:28:49,546 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-04 21:28:49,550 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-04 21:28:49,594 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-04 21:28:49,605 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-04 21:38:22,417 [Entry] FATAL Server - MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'root'@'localhost' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at db.Database..ctor(String host, String database, String user, String password) in C:\Users\darkd\Desktop\New folder (3)\master\votr\db\Database.cs:line 51
+   at wServer.Program.Main(String[] args) in C:\Users\darkd\Desktop\New folder (3)\master\votr\wServer\Program.cs:line 43
+2017-09-06 21:10:08,479 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-06 21:10:08,516 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-06 21:10:08,518 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-06 21:10:08,523 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-06 21:10:08,523 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-09 16:39:37,851 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-09 16:39:37,856 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-09 16:39:37,859 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-09 16:39:37,867 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-09 16:39:37,867 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-09 20:28:10,248 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-09 20:28:10,271 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-09 20:28:10,274 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-09 20:28:10,280 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-09 20:28:10,281 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-09 20:39:24,378 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-09 20:39:24,382 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-09 20:39:24,385 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-09 20:39:24,391 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-09 20:39:24,392 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-09 20:43:39,079 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-09 20:43:39,094 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-09 20:43:39,098 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-09 20:43:39,104 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-09 20:43:39,105 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-09 20:44:18,068 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-09 20:44:18,072 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-09 20:44:18,075 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-09 20:44:18,091 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-09 20:44:18,099 [Entry] WARN  Server - World Test has the default difficulty (-1)
+2017-09-09 20:49:56,780 [Entry] WARN  Server - World TheGauntlet has the default difficulty (-1)
+2017-09-09 20:49:56,789 [Entry] WARN  Server - World Arena has the default difficulty (-1)
+2017-09-09 20:49:56,795 [Entry] WARN  Server - World DailyQuestRoom has the default difficulty (-1)
+2017-09-09 20:49:56,802 [Entry] WARN  Server - World Nexus has the default difficulty (-1)
+2017-09-09 20:49:56,815 [Entry] WARN  Server - World Test has the default difficulty (-1)

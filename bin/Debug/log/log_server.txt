@@ -1,0 +1,1548 @@
+2017-09-02 13:40:21,002 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 13:40:21,014 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 13:40:22,288 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 13:41:01,308 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 13:41:01,321 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 13:41:01,476 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 13:41:01,476 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 13:41:01,477 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 13:41:01,477 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 13:41:01,524 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 13:41:01,526 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 13:41:01,567 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 13:41:01,775 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 13:41:01,788 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 13:41:01,788 [Entry] INFO  db.data.XmlData - 1981 Items
+2017-09-02 13:41:01,788 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 13:41:01,788 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 13:41:01,789 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 13:41:07,802 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 13:41:07,812 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 13:41:07,958 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 13:41:07,958 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 13:41:07,958 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 13:41:07,959 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 13:41:07,977 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 13:41:07,978 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 13:41:07,983 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 13:41:08,127 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 13:41:08,137 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 13:41:08,137 [Entry] INFO  db.data.XmlData - 1981 Items
+2017-09-02 13:41:08,137 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 13:41:08,137 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 13:41:08,137 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 13:41:08,143 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 14:03:39,698 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 14:03:39,710 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 14:03:39,884 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 14:03:39,884 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 14:03:39,885 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 14:03:39,886 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 14:03:39,910 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 14:03:39,912 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 14:03:39,921 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 14:03:40,122 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 14:03:40,135 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 14:03:40,135 [Entry] INFO  db.data.XmlData - 1981 Items
+2017-09-02 14:03:40,135 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 14:03:40,135 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 14:03:40,135 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 14:03:40,141 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 14:06:48,404 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:65140
+2017-09-02 14:06:48,410 [6] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:65141
+2017-09-02 14:06:48,421 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:65140
+2017-09-02 14:06:48,426 [8] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:65140
+2017-09-02 14:06:48,428 [8] INFO  Server - Request "/crossdomain.xml" from: [::1]:65140
+2017-09-02 14:06:48,436 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:65141
+2017-09-02 14:06:48,438 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:65141
+2017-09-02 14:06:48,438 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:65141
+2017-09-02 14:06:48,439 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:65141
+2017-09-02 14:06:48,440 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:65141
+2017-09-02 14:06:48,441 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:65141
+2017-09-02 14:06:48,441 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:65141
+2017-09-02 14:06:48,442 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:65141
+2017-09-02 14:06:48,462 [8] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:65140
+2017-09-02 14:06:48,566 [8] INFO  Server - Request "/app/init" from: [::1]:65140
+2017-09-02 14:06:48,587 [8] INFO  Server - Request "/char/list" from: [::1]:65140
+2017-09-02 14:06:48,776 [8] INFO  Server - Request "/char/list" from: [::1]:65140
+2017-09-02 14:06:49,920 [8] INFO  Server - Request "/package/getPackages" from: [::1]:65140
+2017-09-02 14:06:49,934 [8] INFO  Server - Request "/app/globalNews" from: [::1]:65140
+2017-09-02 14:06:50,186 [8] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:65140
+2017-09-02 14:06:57,657 [8] INFO  Server - Request "/account/verify" from: [::1]:65140
+2017-09-02 14:07:01,251 [8] INFO  Server - Request "/account/verify" from: [::1]:65140
+2017-09-02 14:07:18,700 [8] INFO  Server - Request "/account/register" from: [::1]:65140
+2017-09-02 14:07:25,984 [8] INFO  Server - Request "/account/setName" from: [::1]:65140
+2017-09-02 14:07:30,175 [8] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:65140
+2017-09-02 14:07:30,739 [8] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:65141
+2017-09-02 14:07:30,740 [8] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:65140
+2017-09-02 14:07:31,491 [8] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:65140
+2017-09-02 14:09:14,771 [8] INFO  Server - Request "/music/meadow.mp3" from: [::1]:65176
+2017-09-02 14:09:15,141 [8] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:65176
+2017-09-02 14:09:15,142 [9] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:65177
+2017-09-02 14:09:19,738 [9] INFO  Server - Request "/music/safe.mp3" from: [::1]:65177
+2017-09-02 14:22:12,169 [9] INFO  Server - Request "/char/list" from: [::1]:65433
+2017-09-02 14:23:44,463 [9] INFO  Server - Request "/char/list" from: [::1]:65450
+2017-09-02 14:24:16,221 [9] INFO  Server - Request "/char/list" from: [::1]:65450
+2017-09-02 14:24:52,103 [9] INFO  Server - Request "/char/list" from: [::1]:65450
+2017-09-02 14:25:50,417 [9] INFO  Server - Request "/char/list" from: [::1]:65450
+2017-09-02 14:25:51,434 [9] INFO  Server - Request "/char/list" from: [::1]:65450
+2017-09-02 14:38:14,979 [9] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:49456
+2017-09-02 14:38:14,980 [9] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:49455
+2017-09-02 14:38:14,988 [9] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:49455
+2017-09-02 14:38:14,989 [9] INFO  Server - Request "/music/sorc3.mp3" from: [::1]:49456
+2017-09-02 14:38:14,989 [7] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:49455
+2017-09-02 14:38:14,999 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:49455
+2017-09-02 14:38:15,000 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:49455
+2017-09-02 14:38:15,001 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:49455
+2017-09-02 14:38:15,001 [7] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:49455
+2017-09-02 14:38:15,003 [7] INFO  Server - Request "/crossdomain.xml" from: [::1]:49455
+2017-09-02 14:38:15,011 [7] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:49455
+2017-09-02 14:38:15,014 [7] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:49455
+2017-09-02 14:38:15,015 [7] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:49455
+2017-09-02 14:38:15,022 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:49455
+2017-09-02 14:38:15,069 [7] INFO  Server - Request "/app/init" from: [::1]:49455
+2017-09-02 14:38:15,090 [7] INFO  Server - Request "/char/list" from: [::1]:49455
+2017-09-02 14:38:15,457 [7] INFO  Server - Request "/package/getPackages" from: [::1]:49455
+2017-09-02 14:38:15,477 [7] INFO  Server - Request "/app/globalNews" from: [::1]:49455
+2017-09-02 14:38:15,582 [7] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:49455
+2017-09-02 14:38:40,762 [7] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:49455
+2017-09-02 14:38:40,763 [7] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:49456
+2017-09-02 14:38:42,556 [7] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:49456
+2017-09-02 14:39:06,730 [7] INFO  Server - Request "/char/list" from: [::1]:49456
+2017-09-02 14:40:21,085 [7] INFO  Server - Request "/char/list" from: [::1]:49494
+2017-09-02 14:41:51,961 [7] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:49516
+2017-09-02 14:41:51,967 [7] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:49517
+2017-09-02 14:41:51,971 [7] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:49517
+2017-09-02 14:41:51,972 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:49516
+2017-09-02 14:41:51,973 [10] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:49517
+2017-09-02 14:41:51,973 [7] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:49516
+2017-09-02 14:41:51,975 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:49517
+2017-09-02 14:41:51,977 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:49516
+2017-09-02 14:41:51,977 [10] INFO  Server - Request "/music/sorc.mp3" from: [::1]:49517
+2017-09-02 14:41:51,978 [7] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:49516
+2017-09-02 14:41:51,979 [7] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:49516
+2017-09-02 14:41:51,979 [7] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:49516
+2017-09-02 14:41:51,981 [7] INFO  Server - Request "/crossdomain.xml" from: [::1]:49516
+2017-09-02 14:41:51,990 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:49516
+2017-09-02 14:41:52,052 [10] INFO  Server - Request "/app/init" from: [::1]:49517
+2017-09-02 14:41:52,073 [10] INFO  Server - Request "/char/list" from: [::1]:49517
+2017-09-02 14:41:52,306 [10] INFO  Server - Request "/package/getPackages" from: [::1]:49517
+2017-09-02 14:41:52,325 [10] INFO  Server - Request "/app/globalNews" from: [::1]:49517
+2017-09-02 14:41:52,452 [10] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:49517
+2017-09-02 14:42:13,029 [10] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:49516
+2017-09-02 14:42:13,030 [10] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:49517
+2017-09-02 14:42:14,721 [10] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:49517
+2017-09-02 14:42:38,912 [10] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:49517
+2017-09-02 14:43:40,442 [10] INFO  Server - Request "/char/list" from: [::1]:49553
+2017-09-02 14:43:49,575 [10] INFO  Server - Request "/char/list" from: [::1]:49553
+2017-09-02 14:43:50,596 [10] INFO  Server - Request "/char/list" from: [::1]:49553
+2017-09-02 14:46:35,758 [10] INFO  Server - Request "/char/list" from: [::1]:49595
+2017-09-02 14:46:36,781 [10] INFO  Server - Request "/char/list" from: [::1]:49595
+2017-09-02 14:48:07,264 [10] INFO  Server - Request "/char/list" from: [::1]:49617
+2017-09-02 14:50:08,957 [10] INFO  Server - Request "/char/list" from: [::1]:49648
+2017-09-02 14:50:09,980 [10] INFO  Server - Request "/char/list" from: [::1]:49648
+2017-09-02 15:18:12,112 [10] INFO  Server - Request "/char/list" from: [::1]:55542
+2017-09-02 15:28:02,341 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 15:28:02,354 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 15:28:02,559 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 15:28:02,560 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 15:28:02,560 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 15:28:02,560 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 15:28:02,585 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 15:28:02,586 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 15:28:02,592 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 15:28:02,806 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 15:28:02,828 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 15:28:02,829 [Entry] INFO  db.data.XmlData - 1981 Items
+2017-09-02 15:28:02,829 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 15:28:02,829 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 15:28:02,829 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 15:28:02,837 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 15:28:09,917 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:57605
+2017-09-02 15:28:09,923 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:57606
+2017-09-02 15:28:09,927 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:57606
+2017-09-02 15:28:09,928 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:57605
+2017-09-02 15:28:09,928 [3] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:57606
+2017-09-02 15:28:09,929 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:57605
+2017-09-02 15:28:09,929 [3] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:57606
+2017-09-02 15:28:09,930 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:57606
+2017-09-02 15:28:09,931 [3] INFO  Server - Request "/sfx/error.mp3" from: [::1]:57606
+2017-09-02 15:28:09,931 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:57606
+2017-09-02 15:28:09,932 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:57605
+2017-09-02 15:28:09,932 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:57606
+2017-09-02 15:28:09,932 [6] INFO  Server - Request "/music/sorc6.mp3" from: [::1]:57605
+2017-09-02 15:28:09,938 [3] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:57606
+2017-09-02 15:28:10,230 [3] INFO  Server - Request "/app/init" from: [::1]:57606
+2017-09-02 15:28:10,260 [3] INFO  Server - Request "/char/list" from: [::1]:57606
+2017-09-02 15:28:10,624 [3] INFO  Server - Request "/package/getPackages" from: [::1]:57606
+2017-09-02 15:28:10,635 [3] INFO  Server - Request "/app/globalNews" from: [::1]:57606
+2017-09-02 15:28:10,783 [3] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:57606
+2017-09-02 15:28:15,542 [3] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:57605
+2017-09-02 15:28:15,542 [3] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:57606
+2017-09-02 15:28:19,049 [3] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:57606
+2017-09-02 15:28:23,731 [3] INFO  Server - Request "/char/list" from: [::1]:57606
+2017-09-02 15:30:11,794 [3] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:57817
+2017-09-02 15:30:27,416 [7] INFO  Server - Request "/char/list" from: [::1]:57817
+2017-09-02 16:30:12,737 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 16:30:12,803 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 16:30:13,284 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 16:30:13,284 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 16:30:13,285 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 16:30:13,286 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 16:30:13,336 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 16:30:13,339 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 16:30:13,352 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 16:30:13,692 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 16:30:13,707 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 16:30:13,707 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 16:30:13,708 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 16:30:13,708 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 16:30:13,708 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 16:30:13,720 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 16:30:24,404 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:58974
+2017-09-02 16:30:24,413 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:58975
+2017-09-02 16:30:24,417 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:58974
+2017-09-02 16:30:24,418 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:58975
+2017-09-02 16:30:24,419 [7] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:58974
+2017-09-02 16:30:24,422 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:58974
+2017-09-02 16:30:24,423 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:58975
+2017-09-02 16:30:24,426 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:58975
+2017-09-02 16:30:24,427 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:58975
+2017-09-02 16:30:24,428 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:58975
+2017-09-02 16:30:24,429 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:58975
+2017-09-02 16:30:24,430 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:58975
+2017-09-02 16:30:24,440 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:58974
+2017-09-02 16:30:24,461 [7] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:58975
+2017-09-02 16:30:24,668 [6] INFO  Server - Request "/app/init" from: [::1]:58974
+2017-09-02 16:30:24,698 [6] INFO  Server - Request "/char/list" from: [::1]:58974
+2017-09-02 16:30:25,646 [6] INFO  Server - Request "/package/getPackages" from: [::1]:58974
+2017-09-02 16:30:25,660 [6] INFO  Server - Request "/app/globalNews" from: [::1]:58974
+2017-09-02 16:30:25,849 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:58974
+2017-09-02 16:30:27,870 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:58975
+2017-09-02 16:30:27,870 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:58974
+2017-09-02 16:30:29,851 [6] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:58974
+2017-09-02 16:31:06,263 [6] INFO  Server - Request "/char/list" from: [::1]:58974
+2017-09-02 16:31:38,827 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:58974
+2017-09-02 16:31:54,596 [6] INFO  Server - Request "/music/meadow.mp3" from: [::1]:58974
+2017-09-02 16:31:54,875 [6] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:58974
+2017-09-02 16:31:54,875 [6] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:59005
+2017-09-02 16:32:00,191 [6] INFO  Server - Request "/music/safe.mp3" from: [::1]:59005
+2017-09-02 17:00:46,266 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:00:46,285 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:00:46,501 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:00:46,502 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:00:46,503 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:00:46,504 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:00:46,536 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:00:46,538 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:00:46,546 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:00:46,810 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:00:46,826 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:00:46,826 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:00:46,826 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:00:46,826 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:00:46,827 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:00:46,838 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 17:00:58,563 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:59256
+2017-09-02 17:00:58,582 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:59257
+2017-09-02 17:00:58,586 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:59257
+2017-09-02 17:00:58,590 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:59256
+2017-09-02 17:00:58,592 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:59257
+2017-09-02 17:00:58,593 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:59256
+2017-09-02 17:00:58,594 [8] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:59256
+2017-09-02 17:00:58,595 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:59257
+2017-09-02 17:00:58,596 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:59257
+2017-09-02 17:00:58,596 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:59256
+2017-09-02 17:00:58,597 [8] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:59256
+2017-09-02 17:00:58,673 [8] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:59257
+2017-09-02 17:00:58,674 [8] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:59257
+2017-09-02 17:00:58,675 [8] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:59257
+2017-09-02 17:00:58,757 [8] INFO  Server - Request "/app/init" from: [::1]:59257
+2017-09-02 17:00:58,777 [8] INFO  Server - Request "/char/list" from: [::1]:59257
+2017-09-02 17:00:59,150 [8] INFO  Server - Request "/package/getPackages" from: [::1]:59257
+2017-09-02 17:00:59,166 [8] INFO  Server - Request "/app/globalNews" from: [::1]:59257
+2017-09-02 17:00:59,327 [8] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:59257
+2017-09-02 17:01:01,622 [8] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:59256
+2017-09-02 17:01:01,623 [8] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:59257
+2017-09-02 17:01:03,920 [8] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:59257
+2017-09-02 17:02:59,623 [8] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:59305
+2017-09-02 17:02:59,626 [8] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:59304
+2017-09-02 17:02:59,628 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:59305
+2017-09-02 17:02:59,629 [9] INFO  Server - Request "/sfx/error.mp3" from: [::1]:59304
+2017-09-02 17:02:59,630 [8] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:59305
+2017-09-02 17:02:59,630 [9] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:59304
+2017-09-02 17:02:59,632 [8] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:59305
+2017-09-02 17:02:59,633 [9] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:59304
+2017-09-02 17:02:59,634 [8] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:59305
+2017-09-02 17:02:59,635 [9] INFO  Server - Request "/crossdomain.xml" from: [::1]:59304
+2017-09-02 17:02:59,635 [8] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:59305
+2017-09-02 17:02:59,637 [9] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:59304
+2017-09-02 17:02:59,638 [9] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:59304
+2017-09-02 17:02:59,645 [9] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:59304
+2017-09-02 17:02:59,693 [8] INFO  Server - Request "/app/init" from: [::1]:59305
+2017-09-02 17:02:59,715 [8] INFO  Server - Request "/char/list" from: [::1]:59305
+2017-09-02 17:02:59,993 [8] INFO  Server - Request "/package/getPackages" from: [::1]:59305
+2017-09-02 17:03:00,012 [8] INFO  Server - Request "/app/globalNews" from: [::1]:59305
+2017-09-02 17:03:00,119 [8] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:59305
+2017-09-02 17:03:04,532 [8] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:59305
+2017-09-02 17:03:04,532 [8] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:59304
+2017-09-02 17:03:06,365 [8] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:59304
+2017-09-02 17:03:16,816 [8] INFO  Server - Request "/music/meadow.mp3" from: [::1]:59304
+2017-09-02 17:03:17,120 [8] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:59304
+2017-09-02 17:03:17,120 [8] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:59305
+2017-09-02 17:03:21,527 [8] INFO  Server - Request "/music/safe.mp3" from: [::1]:59305
+2017-09-02 17:07:18,504 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:07:18,536 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:07:18,827 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:07:18,829 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:07:18,833 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:07:18,834 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:07:18,871 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:07:18,879 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:07:18,886 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:07:19,285 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:07:19,309 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:07:19,309 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:07:19,309 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:07:19,309 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:07:19,309 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:07:19,323 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 17:07:26,189 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:59349
+2017-09-02 17:07:26,202 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:59348
+2017-09-02 17:07:26,204 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:59349
+2017-09-02 17:07:26,205 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:59348
+2017-09-02 17:07:26,209 [3] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:59349
+2017-09-02 17:07:26,211 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:59348
+2017-09-02 17:07:26,211 [7] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:59349
+2017-09-02 17:07:26,213 [7] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:59348
+2017-09-02 17:07:26,214 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:59349
+2017-09-02 17:07:26,215 [3] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:59348
+2017-09-02 17:07:26,215 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:59349
+2017-09-02 17:07:26,216 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:59348
+2017-09-02 17:07:26,216 [3] INFO  Server - Request "/music/sorc3.mp3" from: [::1]:59349
+2017-09-02 17:07:26,217 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:59348
+2017-09-02 17:07:26,305 [7] INFO  Server - Request "/app/init" from: [::1]:59348
+2017-09-02 17:07:26,326 [7] INFO  Server - Request "/char/list" from: [::1]:59348
+2017-09-02 17:07:26,670 [7] INFO  Server - Request "/package/getPackages" from: [::1]:59348
+2017-09-02 17:07:26,689 [7] INFO  Server - Request "/app/globalNews" from: [::1]:59348
+2017-09-02 17:07:26,867 [7] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:59348
+2017-09-02 17:07:30,717 [7] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:59348
+2017-09-02 17:07:30,717 [7] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:59349
+2017-09-02 17:07:32,700 [7] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:59349
+2017-09-02 17:07:42,684 [7] INFO  Server - Request "/music/safe.mp3" from: [::1]:59349
+2017-09-02 17:09:15,845 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:09:15,865 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:09:16,117 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:09:16,117 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:09:16,118 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:09:16,119 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:09:16,147 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:09:16,151 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:09:16,159 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:09:16,458 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:09:16,474 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:09:16,474 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:09:16,474 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:09:16,474 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:09:16,474 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:09:23,824 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:09:23,843 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:09:24,104 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:09:24,104 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:09:24,105 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:09:24,106 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:09:24,137 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:09:24,141 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:09:24,150 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:09:24,389 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:09:24,402 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:09:24,402 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:09:24,402 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:09:24,402 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:09:24,402 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:09:24,410 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 17:09:32,275 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:59382
+2017-09-02 17:09:32,285 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:59381
+2017-09-02 17:09:32,298 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:59381
+2017-09-02 17:09:32,298 [6] INFO  Server - Request "/music/sorc4.mp3" from: [::1]:59382
+2017-09-02 17:09:32,299 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:59381
+2017-09-02 17:09:32,301 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:59381
+2017-09-02 17:09:32,310 [7] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:59381
+2017-09-02 17:09:32,311 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:59381
+2017-09-02 17:09:32,313 [7] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:59381
+2017-09-02 17:09:32,314 [7] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:59381
+2017-09-02 17:09:32,315 [7] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:59381
+2017-09-02 17:09:32,319 [7] INFO  Server - Request "/crossdomain.xml" from: [::1]:59381
+2017-09-02 17:09:32,326 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:59381
+2017-09-02 17:09:32,332 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:59381
+2017-09-02 17:09:32,461 [7] INFO  Server - Request "/app/init" from: [::1]:59381
+2017-09-02 17:09:32,488 [7] INFO  Server - Request "/char/list" from: [::1]:59381
+2017-09-02 17:09:32,857 [7] INFO  Server - Request "/package/getPackages" from: [::1]:59381
+2017-09-02 17:09:32,874 [7] INFO  Server - Request "/app/globalNews" from: [::1]:59381
+2017-09-02 17:09:33,020 [7] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:59381
+2017-09-02 17:09:34,936 [7] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:59381
+2017-09-02 17:09:34,936 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:59382
+2017-09-02 17:09:36,981 [7] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:59381
+2017-09-02 17:09:41,634 [7] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:59381
+2017-09-02 17:13:47,541 [7] INFO  Server - Request "/char/list" from: [::1]:59433
+2017-09-02 17:14:43,960 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:14:43,979 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:14:44,207 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:14:44,207 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:14:44,208 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:14:44,209 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:14:44,237 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:14:44,239 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:14:44,249 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:14:44,542 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:14:44,562 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:14:44,562 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:14:44,562 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:14:44,562 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:14:44,562 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:14:44,578 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 17:14:51,833 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:59447
+2017-09-02 17:14:51,843 [6] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:59448
+2017-09-02 17:14:51,845 [3] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:59447
+2017-09-02 17:14:51,846 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:59447
+2017-09-02 17:14:51,847 [3] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:59447
+2017-09-02 17:14:51,848 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:59447
+2017-09-02 17:14:51,852 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:59447
+2017-09-02 17:14:51,853 [3] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:59447
+2017-09-02 17:14:51,856 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:59447
+2017-09-02 17:14:51,859 [3] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:59447
+2017-09-02 17:14:51,860 [3] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:59447
+2017-09-02 17:14:51,862 [3] INFO  Server - Request "/sfx/error.mp3" from: [::1]:59447
+2017-09-02 17:14:51,863 [7] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:59447
+2017-09-02 17:14:51,872 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:59447
+2017-09-02 17:14:51,997 [7] INFO  Server - Request "/app/init" from: [::1]:59447
+2017-09-02 17:14:52,030 [7] INFO  Server - Request "/char/list" from: [::1]:59447
+2017-09-02 17:14:52,433 [7] INFO  Server - Request "/package/getPackages" from: [::1]:59447
+2017-09-02 17:14:52,449 [7] INFO  Server - Request "/app/globalNews" from: [::1]:59447
+2017-09-02 17:14:52,626 [7] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:59447
+2017-09-02 17:14:55,527 [7] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:59448
+2017-09-02 17:14:55,539 [7] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:59447
+2017-09-02 17:14:57,677 [7] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:59447
+2017-09-02 17:14:59,460 [7] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:59447
+2017-09-02 17:16:39,014 [9] INFO  Server - Request "/char/list" from: [::1]:59474
+2017-09-02 17:17:08,824 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:17:08,843 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:17:09,194 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:17:09,197 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:17:09,198 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:17:09,201 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:17:09,226 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:17:09,230 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:17:09,239 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:17:09,548 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:17:09,571 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:17:09,571 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:17:09,571 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:17:09,571 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:17:09,572 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:17:26,907 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:17:26,923 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:17:27,160 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:17:27,161 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:17:27,161 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:17:27,162 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:17:27,187 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:17:27,192 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:17:27,199 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:17:27,521 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:17:27,538 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:17:27,538 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:17:27,538 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:17:27,538 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:17:27,538 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:17:27,553 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 17:17:27,627 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:59515
+2017-09-02 17:17:27,633 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:59516
+2017-09-02 17:17:27,637 [6] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:59515
+2017-09-02 17:17:27,638 [3] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:59516
+2017-09-02 17:17:27,640 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:59516
+2017-09-02 17:17:27,641 [6] INFO  Server - Request "/crossdomain.xml" from: 127.0.0.1:59515
+2017-09-02 17:17:27,653 [6] INFO  Server - Request "/app/getLanguageStrings" from: 127.0.0.1:59515
+2017-09-02 17:17:27,743 [6] INFO  Server - Request "/app/init" from: 127.0.0.1:59515
+2017-09-02 17:17:27,770 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:59515
+2017-09-02 17:17:28,140 [6] INFO  Server - Request "/package/getPackages" from: 127.0.0.1:59515
+2017-09-02 17:17:28,160 [6] INFO  Server - Request "/app/globalNews" from: 127.0.0.1:59515
+2017-09-02 17:17:28,354 [6] INFO  Server - Request "/mysterybox/getBoxes" from: 127.0.0.1:59515
+2017-09-02 17:17:30,940 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: 127.0.0.1:59516
+2017-09-02 17:17:30,942 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: 127.0.0.1:59515
+2017-09-02 17:17:33,345 [6] INFO  Server - Request "/music/Nexus.mp3" from: 127.0.0.1:59515
+2017-09-02 17:17:46,004 [6] INFO  Server - Request "/music/meadow.mp3" from: 127.0.0.1:59515
+2017-09-02 17:17:46,454 [6] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: 127.0.0.1:59516
+2017-09-02 17:17:46,456 [6] INFO  Server - Request "/sfx/monster/default_death.mp3" from: 127.0.0.1:59515
+2017-09-02 17:43:15,336 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 17:43:15,354 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:43:15,619 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 17:43:15,619 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 17:43:15,620 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 17:43:15,620 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 17:43:15,648 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 17:43:15,650 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 17:43:15,658 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 17:43:15,896 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 17:43:15,912 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 17:43:15,912 [Entry] INFO  db.data.XmlData - 1982 Items
+2017-09-02 17:43:15,912 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 17:43:15,912 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 17:43:15,912 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 17:43:15,923 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 17:43:20,638 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:59740
+2017-09-02 17:43:20,688 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:59741
+2017-09-02 17:43:20,693 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:59741
+2017-09-02 17:43:20,696 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:59740
+2017-09-02 17:43:20,700 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:59741
+2017-09-02 17:43:20,701 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:59740
+2017-09-02 17:43:20,702 [8] INFO  Server - Request "/crossdomain.xml" from: [::1]:59741
+2017-09-02 17:43:20,702 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:59740
+2017-09-02 17:43:20,709 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:59740
+2017-09-02 17:43:20,719 [6] INFO  Server - Request "/music/sorc3.mp3" from: [::1]:59740
+2017-09-02 17:43:20,739 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:59741
+2017-09-02 17:43:20,745 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:59741
+2017-09-02 17:43:20,749 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:59740
+2017-09-02 17:43:20,752 [8] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:59741
+2017-09-02 17:43:20,879 [8] INFO  Server - Request "/app/init" from: [::1]:59741
+2017-09-02 17:43:20,901 [8] INFO  Server - Request "/char/list" from: [::1]:59741
+2017-09-02 17:43:21,347 [8] INFO  Server - Request "/package/getPackages" from: [::1]:59741
+2017-09-02 17:43:21,361 [8] INFO  Server - Request "/app/globalNews" from: [::1]:59741
+2017-09-02 17:43:21,549 [8] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:59741
+2017-09-02 17:43:24,688 [8] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:59741
+2017-09-02 17:43:24,689 [8] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:59740
+2017-09-02 17:43:27,001 [8] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:59740
+2017-09-02 17:43:34,815 [8] INFO  Server - Request "/music/safe.mp3" from: [::1]:59740
+2017-09-02 17:43:58,618 [8] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:59740
+2017-09-02 18:27:51,636 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-02 18:27:51,715 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 18:27:54,435 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-02 18:27:54,508 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-02 18:27:54,526 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-02 18:27:54,533 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-02 18:27:54,569 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-02 18:27:54,586 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-02 18:27:54,597 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-02 18:27:55,201 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-02 18:27:55,232 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-02 18:27:55,234 [Entry] INFO  db.data.XmlData - 2007 Items
+2017-09-02 18:27:55,237 [Entry] INFO  db.data.XmlData - 434 Tiles
+2017-09-02 18:27:55,238 [Entry] INFO  db.data.XmlData - 3057 Objects
+2017-09-02 18:27:55,238 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-02 18:27:55,249 [Entry] INFO  Server - Listening at port 8080...
+2017-09-02 18:28:19,127 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:60225
+2017-09-02 18:28:19,136 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:60226
+2017-09-02 18:28:19,140 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:60225
+2017-09-02 18:28:19,152 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:60225
+2017-09-02 18:28:19,153 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:60226
+2017-09-02 18:28:19,154 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:60225
+2017-09-02 18:28:19,155 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:60225
+2017-09-02 18:28:19,156 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:60226
+2017-09-02 18:28:19,158 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:60225
+2017-09-02 18:28:19,158 [3] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:60226
+2017-09-02 18:28:19,160 [3] INFO  Server - Request "/sfx/error.mp3" from: [::1]:60225
+2017-09-02 18:28:19,161 [3] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:60226
+2017-09-02 18:28:19,162 [6] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:60225
+2017-09-02 18:28:19,164 [3] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:60226
+2017-09-02 18:28:19,243 [3] INFO  Server - Request "/app/init" from: [::1]:60226
+2017-09-02 18:28:19,263 [3] INFO  Server - Request "/char/list" from: [::1]:60226
+2017-09-02 18:28:19,621 [3] INFO  Server - Request "/package/getPackages" from: [::1]:60226
+2017-09-02 18:28:19,640 [3] INFO  Server - Request "/app/globalNews" from: [::1]:60226
+2017-09-02 18:28:19,817 [3] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:60226
+2017-09-02 18:28:21,794 [3] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:60226
+2017-09-02 18:28:21,795 [3] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:60225
+2017-09-02 18:28:24,214 [3] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:60225
+2017-09-02 18:28:36,340 [3] INFO  Server - Request "/music/meadow.mp3" from: [::1]:60225
+2017-09-02 18:28:36,746 [3] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:60225
+2017-09-02 18:28:36,746 [8] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:60226
+2017-09-02 18:28:47,610 [8] INFO  Server - Request "/music/safe.mp3" from: [::1]:60226
+2017-09-02 18:30:04,411 [8] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:60260
+2017-09-02 18:30:04,413 [8] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:60259
+2017-09-02 18:30:04,424 [8] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:60260
+2017-09-02 18:30:04,425 [9] INFO  Server - Request "/crossdomain.xml" from: [::1]:60260
+2017-09-02 18:30:04,426 [9] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:60259
+2017-09-02 18:30:04,430 [8] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:60260
+2017-09-02 18:30:04,435 [8] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:60260
+2017-09-02 18:30:04,436 [8] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:60260
+2017-09-02 18:30:04,438 [8] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:60260
+2017-09-02 18:30:04,439 [8] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:60260
+2017-09-02 18:30:04,440 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:60260
+2017-09-02 18:30:04,441 [8] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:60260
+2017-09-02 18:30:04,442 [8] INFO  Server - Request "/sfx/error.mp3" from: [::1]:60260
+2017-09-02 18:30:04,442 [8] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:60260
+2017-09-02 18:30:04,494 [9] INFO  Server - Request "/app/init" from: [::1]:60259
+2017-09-02 18:30:04,515 [9] INFO  Server - Request "/char/list" from: [::1]:60259
+2017-09-02 18:30:04,742 [9] INFO  Server - Request "/package/getPackages" from: [::1]:60259
+2017-09-02 18:30:04,761 [9] INFO  Server - Request "/app/globalNews" from: [::1]:60259
+2017-09-02 18:30:04,880 [9] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:60259
+2017-09-02 18:30:05,789 [9] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:60260
+2017-09-02 18:30:05,789 [9] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:60259
+2017-09-02 18:30:08,084 [9] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:60259
+2017-09-02 18:30:13,844 [9] INFO  Server - Request "/music/meadow.mp3" from: [::1]:60259
+2017-09-02 18:30:14,179 [9] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:60260
+2017-09-02 18:30:14,179 [9] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:60259
+2017-09-02 18:30:21,483 [9] INFO  Server - Request "/music/safe.mp3" from: [::1]:60259
+2017-09-02 18:30:52,680 [9] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:60259
+2017-09-02 18:31:55,579 [9] INFO  Server - Request "/char/list" from: [::1]:60284
+2017-09-03 15:35:16,291 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-03 15:35:16,303 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-03 15:35:16,476 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-03 15:35:16,476 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-03 15:35:16,476 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-03 15:35:16,477 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-03 15:35:16,496 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-03 15:35:16,499 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-03 15:35:16,505 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-03 15:35:16,689 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-03 15:35:16,700 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-03 15:35:16,700 [Entry] INFO  db.data.XmlData - 2014 Items
+2017-09-03 15:35:16,701 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-03 15:35:16,701 [Entry] INFO  db.data.XmlData - 3063 Objects
+2017-09-03 15:35:16,701 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-03 15:35:16,715 [Entry] INFO  Server - Listening at port 8080...
+2017-09-03 15:35:24,406 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:49360
+2017-09-03 15:35:24,411 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:49361
+2017-09-03 15:35:24,413 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:49360
+2017-09-03 15:35:24,413 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:49361
+2017-09-03 15:35:24,415 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:49361
+2017-09-03 15:35:24,415 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:49360
+2017-09-03 15:35:24,415 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:49361
+2017-09-03 15:35:24,416 [7] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:49361
+2017-09-03 15:35:24,416 [7] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:49361
+2017-09-03 15:35:24,418 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:49361
+2017-09-03 15:35:24,419 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:49360
+2017-09-03 15:35:24,419 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:49361
+2017-09-03 15:35:24,420 [6] INFO  Server - Request "/music/sorc3.mp3" from: [::1]:49360
+2017-09-03 15:35:24,425 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:49361
+2017-09-03 15:35:24,488 [7] INFO  Server - Request "/app/init" from: [::1]:49361
+2017-09-03 15:35:24,509 [7] INFO  Server - Request "/char/list" from: [::1]:49361
+2017-09-03 15:35:25,092 [7] INFO  Server - Request "/package/getPackages" from: [::1]:49361
+2017-09-03 15:35:25,112 [7] INFO  Server - Request "/app/globalNews" from: [::1]:49361
+2017-09-03 15:35:25,240 [7] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:49361
+2017-09-03 15:35:29,323 [7] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:49361
+2017-09-03 15:35:29,324 [7] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:49360
+2017-09-03 15:35:31,852 [7] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:49360
+2017-09-03 15:35:43,899 [7] INFO  Server - Request "/music/meadow.mp3" from: [::1]:49360
+2017-09-03 15:35:44,175 [7] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:49360
+2017-09-03 15:35:44,175 [7] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:49361
+2017-09-03 15:38:03,169 [7] INFO  Server - Request "/char/list" from: [::1]:49467
+2017-09-03 15:38:51,179 [7] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:49467
+2017-09-03 15:42:53,169 [7] INFO  Server - Request "/char/list" from: [::1]:49620
+2017-09-03 15:43:20,999 [7] INFO  Server - Request "/char/delete" from: [::1]:49620
+2017-09-03 15:45:01,882 [7] INFO  Server - Request "/char/list" from: [::1]:49702
+2017-09-03 16:03:35,581 [7] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:50215
+2017-09-03 16:03:35,583 [7] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:50214
+2017-09-03 16:03:35,594 [7] INFO  Server - Request "/crossdomain.xml" from: [::1]:50214
+2017-09-03 16:03:35,595 [7] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:50215
+2017-09-03 16:03:35,597 [7] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:50215
+2017-09-03 16:03:35,598 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:50214
+2017-09-03 16:03:35,600 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:50215
+2017-09-03 16:03:35,601 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:50214
+2017-09-03 16:03:35,602 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:50215
+2017-09-03 16:03:35,603 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:50214
+2017-09-03 16:03:35,603 [6] INFO  Server - Request "/music/sorc4.mp3" from: [::1]:50215
+2017-09-03 16:03:35,604 [7] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:50214
+2017-09-03 16:03:35,604 [7] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:50214
+2017-09-03 16:03:35,605 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:50214
+2017-09-03 16:03:35,655 [7] INFO  Server - Request "/app/init" from: [::1]:50214
+2017-09-03 16:03:35,686 [6] INFO  Server - Request "/char/list" from: [::1]:50215
+2017-09-03 16:03:35,983 [6] INFO  Server - Request "/package/getPackages" from: [::1]:50215
+2017-09-03 16:03:36,002 [6] INFO  Server - Request "/app/globalNews" from: [::1]:50215
+2017-09-03 16:03:36,100 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:50215
+2017-09-03 16:06:07,149 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:50320
+2017-09-03 16:06:07,149 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:50319
+2017-09-03 16:06:08,042 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:50319
+2017-09-03 16:07:49,086 [6] INFO  Server - Request "/char/list" from: [::1]:50370
+2017-09-03 16:07:50,117 [6] INFO  Server - Request "/char/list" from: [::1]:50370
+2017-09-03 16:07:51,133 [6] INFO  Server - Request "/char/list" from: [::1]:50370
+2017-09-03 16:41:19,107 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:51389
+2017-09-03 16:41:19,108 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:51390
+2017-09-03 16:41:19,111 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:51390
+2017-09-03 16:41:19,111 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:51389
+2017-09-03 16:41:19,112 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:51390
+2017-09-03 16:41:19,116 [9] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:51389
+2017-09-03 16:41:19,117 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:51389
+2017-09-03 16:41:19,118 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:51390
+2017-09-03 16:41:19,122 [9] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:51389
+2017-09-03 16:41:19,123 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:51390
+2017-09-03 16:41:19,125 [9] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:51390
+2017-09-03 16:41:19,126 [9] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:51389
+2017-09-03 16:41:19,128 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:51390
+2017-09-03 16:41:19,133 [9] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:51389
+2017-09-03 16:41:19,182 [6] INFO  Server - Request "/app/init" from: [::1]:51390
+2017-09-03 16:41:19,227 [9] INFO  Server - Request "/char/list" from: [::1]:51389
+2017-09-03 16:41:19,490 [9] INFO  Server - Request "/package/getPackages" from: [::1]:51389
+2017-09-03 16:41:19,509 [9] INFO  Server - Request "/app/globalNews" from: [::1]:51389
+2017-09-03 16:41:19,612 [9] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:51389
+2017-09-03 18:37:12,017 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-03 18:37:12,031 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-03 18:37:12,200 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-03 18:37:12,200 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-03 18:37:12,201 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-03 18:37:12,201 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-03 18:37:12,221 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-03 18:37:12,222 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-03 18:37:12,229 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-03 18:37:12,403 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-03 18:37:12,415 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-03 18:37:12,415 [Entry] INFO  db.data.XmlData - 2014 Items
+2017-09-03 18:37:12,415 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-03 18:37:12,415 [Entry] INFO  db.data.XmlData - 3063 Objects
+2017-09-03 18:37:12,415 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-03 18:37:12,422 [Entry] INFO  Server - Listening at port 8080...
+2017-09-03 18:43:36,204 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:55149
+2017-09-03 18:43:36,210 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:55150
+2017-09-03 18:43:36,211 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:55150
+2017-09-03 18:43:36,212 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:55149
+2017-09-03 18:43:36,212 [8] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:55150
+2017-09-03 18:43:36,213 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:55149
+2017-09-03 18:43:36,213 [8] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:55150
+2017-09-03 18:43:36,214 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:55150
+2017-09-03 18:43:36,214 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:55149
+2017-09-03 18:43:36,215 [8] INFO  Server - Request "/crossdomain.xml" from: [::1]:55150
+2017-09-03 18:43:36,215 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:55149
+2017-09-03 18:43:36,216 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:55149
+2017-09-03 18:43:36,217 [6] INFO  Server - Request "/music/sorc.mp3" from: [::1]:55150
+2017-09-03 18:43:36,224 [8] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:55149
+2017-09-03 18:43:36,327 [8] INFO  Server - Request "/app/init" from: [::1]:55149
+2017-09-03 18:43:36,356 [8] INFO  Server - Request "/char/list" from: [::1]:55149
+2017-09-03 18:43:37,451 [8] INFO  Server - Request "/package/getPackages" from: [::1]:55149
+2017-09-03 18:43:37,847 [8] INFO  Server - Request "/app/globalNews" from: [::1]:55149
+2017-09-03 18:43:37,976 [8] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:55149
+2017-09-03 18:44:06,966 [8] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:55150
+2017-09-03 18:44:06,967 [8] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:55149
+2017-09-03 18:44:09,739 [8] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:55149
+2017-09-03 18:44:11,285 [8] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:55149
+2017-09-03 18:44:28,630 [8] INFO  Server - Request "/char/list" from: [::1]:55149
+2017-09-03 18:49:26,286 [8] INFO  Server - Request "/music/sorc4.mp3" from: [::1]:55338
+2017-09-03 18:49:26,365 [8] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:55337
+2017-09-03 18:49:26,370 [8] INFO  Server - Request "/sfx/error.mp3" from: [::1]:55337
+2017-09-03 18:49:26,371 [8] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:55338
+2017-09-03 18:49:26,372 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:55337
+2017-09-03 18:49:26,374 [8] INFO  Server - Request "/crossdomain.xml" from: [::1]:55338
+2017-09-03 18:49:26,374 [3] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:55337
+2017-09-03 18:49:26,380 [3] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:55337
+2017-09-03 18:49:26,381 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:55338
+2017-09-03 18:49:26,381 [10] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:55337
+2017-09-03 18:49:26,382 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:55338
+2017-09-03 18:49:26,382 [10] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:55337
+2017-09-03 18:49:26,383 [3] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:55338
+2017-09-03 18:49:26,384 [10] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:55337
+2017-09-03 18:49:26,428 [10] INFO  Server - Request "/app/init" from: [::1]:55337
+2017-09-03 18:49:26,450 [10] INFO  Server - Request "/char/list" from: [::1]:55337
+2017-09-03 18:49:26,727 [10] INFO  Server - Request "/package/getPackages" from: [::1]:55337
+2017-09-03 18:49:26,747 [10] INFO  Server - Request "/app/globalNews" from: [::1]:55337
+2017-09-03 18:49:26,855 [10] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:55337
+2017-09-03 18:49:52,357 [10] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:55337
+2017-09-03 18:49:52,360 [10] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:55338
+2017-09-03 18:49:55,054 [10] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:55338
+2017-09-03 18:50:10,442 [10] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:55338
+2017-09-03 18:50:14,627 [10] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:55338
+2017-09-03 18:50:14,629 [10] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:55337
+2017-09-03 18:53:18,301 [10] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:55481
+2017-09-03 18:53:32,401 [10] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:55487
+2017-09-03 18:53:32,402 [10] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:55488
+2017-09-03 18:53:32,436 [10] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:55487
+2017-09-03 18:53:32,436 [10] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:55488
+2017-09-03 18:53:32,438 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:55487
+2017-09-03 18:53:32,439 [10] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:55488
+2017-09-03 18:53:32,440 [11] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:55487
+2017-09-03 18:53:32,444 [11] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:55488
+2017-09-03 18:53:32,445 [11] INFO  Server - Request "/crossdomain.xml" from: [::1]:55487
+2017-09-03 18:53:32,447 [10] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:55488
+2017-09-03 18:53:32,449 [11] INFO  Server - Request "/sfx/error.mp3" from: [::1]:55487
+2017-09-03 18:53:32,450 [10] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:55488
+2017-09-03 18:53:32,454 [11] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:55487
+2017-09-03 18:53:32,470 [11] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:55487
+2017-09-03 18:53:32,552 [11] INFO  Server - Request "/app/init" from: [::1]:55487
+2017-09-03 18:53:32,583 [10] INFO  Server - Request "/char/list" from: [::1]:55488
+2017-09-03 18:53:32,776 [10] INFO  Server - Request "/package/getPackages" from: [::1]:55488
+2017-09-03 18:53:32,795 [10] INFO  Server - Request "/app/globalNews" from: [::1]:55488
+2017-09-03 18:53:32,919 [10] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:55488
+2017-09-03 22:16:37,542 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-03 22:16:37,579 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-03 22:16:37,735 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-03 22:16:37,735 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-03 22:16:37,735 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-03 22:16:37,736 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-03 22:16:37,756 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-03 22:16:37,757 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-03 22:16:37,764 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-03 22:16:37,942 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-03 22:16:37,952 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-03 22:16:37,953 [Entry] INFO  db.data.XmlData - 2014 Items
+2017-09-03 22:16:37,953 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-03 22:16:37,953 [Entry] INFO  db.data.XmlData - 3063 Objects
+2017-09-03 22:16:37,953 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-03 22:16:37,960 [Entry] INFO  Server - Listening at port 8080...
+2017-09-03 22:16:47,381 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:62862
+2017-09-03 22:16:47,386 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:62863
+2017-09-03 22:16:47,388 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:62863
+2017-09-03 22:16:47,389 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:62862
+2017-09-03 22:16:47,390 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:62863
+2017-09-03 22:16:47,394 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:62862
+2017-09-03 22:16:47,395 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:62862
+2017-09-03 22:16:47,396 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:62863
+2017-09-03 22:16:47,396 [8] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:62862
+2017-09-03 22:16:47,396 [3] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:62863
+2017-09-03 22:16:47,397 [3] INFO  Server - Request "/sfx/error.mp3" from: [::1]:62862
+2017-09-03 22:16:47,397 [8] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:62863
+2017-09-03 22:16:47,397 [6] INFO  Server - Request "/music/sorc6.mp3" from: [::1]:62862
+2017-09-03 22:16:47,398 [8] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:62863
+2017-09-03 22:16:47,511 [6] INFO  Server - Request "/app/init" from: [::1]:62862
+2017-09-03 22:16:47,531 [6] INFO  Server - Request "/char/list" from: [::1]:62862
+2017-09-03 22:16:47,916 [6] INFO  Server - Request "/package/getPackages" from: [::1]:62862
+2017-09-03 22:16:47,927 [6] INFO  Server - Request "/app/globalNews" from: [::1]:62862
+2017-09-03 22:16:48,039 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:62862
+2017-09-03 22:19:17,398 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:62949
+2017-09-03 22:19:17,399 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:62948
+2017-09-03 22:19:17,958 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:62948
+2017-09-04 08:28:24,380 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-04 08:28:24,403 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 08:28:24,532 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-04 08:28:24,532 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 08:28:24,532 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-04 08:28:24,533 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-04 08:28:24,548 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-04 08:28:24,549 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-04 08:28:24,556 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-04 08:28:24,702 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-04 08:28:24,710 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-04 08:28:24,711 [Entry] INFO  db.data.XmlData - 2014 Items
+2017-09-04 08:28:24,711 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-04 08:28:24,711 [Entry] INFO  db.data.XmlData - 3063 Objects
+2017-09-04 08:28:24,711 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-04 08:28:24,717 [Entry] INFO  Server - Listening at port 8080...
+2017-09-04 08:28:29,970 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:52836
+2017-09-04 08:28:29,974 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:52837
+2017-09-04 08:28:29,976 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:52837
+2017-09-04 08:28:29,976 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:52836
+2017-09-04 08:28:29,981 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:52836
+2017-09-04 08:28:29,982 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:52837
+2017-09-04 08:28:29,982 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:52836
+2017-09-04 08:28:29,984 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:52837
+2017-09-04 08:28:29,988 [3] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:52837
+2017-09-04 08:28:29,989 [3] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:52836
+2017-09-04 08:28:29,989 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:52837
+2017-09-04 08:28:29,990 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:52836
+2017-09-04 08:28:29,991 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:52837
+2017-09-04 08:28:30,002 [3] INFO  Server - Request "/music/sorc4.mp3" from: [::1]:52836
+2017-09-04 08:28:30,072 [3] INFO  Server - Request "/app/init" from: [::1]:52836
+2017-09-04 08:28:30,098 [3] INFO  Server - Request "/char/list" from: [::1]:52836
+2017-09-04 08:28:31,029 [3] INFO  Server - Request "/package/getPackages" from: [::1]:52836
+2017-09-04 08:28:31,171 [3] INFO  Server - Request "/app/globalNews" from: [::1]:52836
+2017-09-04 08:28:31,389 [3] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:52836
+2017-09-04 08:28:35,086 [3] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:52837
+2017-09-04 08:28:35,087 [3] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:52836
+2017-09-04 08:28:39,612 [3] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:52836
+2017-09-04 08:28:41,522 [3] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:52836
+2017-09-04 08:33:56,095 [3] INFO  Server - Request "/char/list" from: [::1]:53629
+2017-09-04 08:36:43,694 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:53682
+2017-09-04 08:36:43,695 [3] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:53683
+2017-09-04 08:36:43,697 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:53683
+2017-09-04 08:36:43,697 [3] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:53682
+2017-09-04 08:36:43,698 [10] INFO  Server - Request "/sfx/error.mp3" from: [::1]:53682
+2017-09-04 08:36:43,699 [3] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:53683
+2017-09-04 08:36:43,700 [10] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:53682
+2017-09-04 08:36:43,702 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:53683
+2017-09-04 08:36:43,702 [10] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:53682
+2017-09-04 08:36:43,702 [3] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:53683
+2017-09-04 08:36:43,703 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:53682
+2017-09-04 08:36:43,703 [10] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:53683
+2017-09-04 08:36:43,704 [10] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:53683
+2017-09-04 08:36:43,774 [10] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:53682
+2017-09-04 08:36:43,811 [10] INFO  Server - Request "/app/init" from: [::1]:53682
+2017-09-04 08:36:43,831 [10] INFO  Server - Request "/char/list" from: [::1]:53682
+2017-09-04 08:36:44,061 [10] INFO  Server - Request "/package/getPackages" from: [::1]:53682
+2017-09-04 08:36:44,080 [10] INFO  Server - Request "/app/globalNews" from: [::1]:53682
+2017-09-04 08:36:44,173 [10] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:53682
+2017-09-04 08:37:11,615 [10] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:53682
+2017-09-04 08:37:11,615 [10] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:53683
+2017-09-04 08:37:14,431 [10] INFO  Server - Request "/char/delete" from: [::1]:53683
+2017-09-04 08:37:15,849 [10] INFO  Server - Request "/char/delete" from: [::1]:53683
+2017-09-04 08:37:23,277 [10] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:53683
+2017-09-04 08:37:24,790 [10] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:53683
+2017-09-04 08:37:39,645 [10] INFO  Server - Request "/music/argual.mp3" from: [::1]:53683
+2017-09-04 08:37:39,855 [10] INFO  Server - Request "/sfx/monster/snakes_death.mp3" from: [::1]:53682
+2017-09-04 08:37:39,855 [10] INFO  Server - Request "/sfx/monster/snakes_hit.mp3" from: [::1]:53683
+2017-09-04 08:37:39,856 [10] INFO  Server - Request "/sfx/monster/scorpions_hit.mp3" from: [::1]:53682
+2017-09-04 08:37:39,857 [9] INFO  Server - Request "/sfx/monster/scorpions_death.mp3" from: [::1]:53683
+2017-09-04 08:37:39,857 [10] INFO  Server - Request "/sfx/monster/pirates_death.mp3" from: [::1]:53682
+2017-09-04 08:37:39,858 [10] INFO  Server - Request "/sfx/monster/pirates_hit.mp3" from: [::1]:53683
+2017-09-04 08:37:51,904 [10] INFO  Server - Request "/char/list" from: [::1]:53683
+2017-09-04 09:47:32,427 [10] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:54007
+2017-09-04 09:47:32,431 [10] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:54006
+2017-09-04 09:47:32,432 [10] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:54007
+2017-09-04 09:47:32,433 [10] INFO  Server - Request "/sfx/error.mp3" from: [::1]:54006
+2017-09-04 09:47:32,434 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:54007
+2017-09-04 09:47:32,434 [10] INFO  Server - Request "/crossdomain.xml" from: [::1]:54006
+2017-09-04 09:47:32,435 [8] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:54007
+2017-09-04 09:47:32,436 [10] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:54007
+2017-09-04 09:47:32,437 [10] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:54007
+2017-09-04 09:47:32,438 [10] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:54006
+2017-09-04 09:47:32,438 [10] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:54007
+2017-09-04 09:47:32,439 [8] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:54006
+2017-09-04 09:47:32,441 [8] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:54006
+2017-09-04 09:47:32,448 [8] INFO  Server - Request "/music/sorc6.mp3" from: [::1]:54007
+2017-09-04 09:47:32,486 [10] INFO  Server - Request "/app/init" from: [::1]:54006
+2017-09-04 09:47:32,510 [10] INFO  Server - Request "/char/list" from: [::1]:54006
+2017-09-04 09:47:32,876 [10] INFO  Server - Request "/package/getPackages" from: [::1]:54006
+2017-09-04 09:47:32,895 [10] INFO  Server - Request "/app/globalNews" from: [::1]:54006
+2017-09-04 09:47:33,011 [10] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:54006
+2017-09-04 09:52:40,590 [10] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:54026
+2017-09-04 09:52:40,591 [10] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:54027
+2017-09-04 09:52:41,876 [10] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:54027
+2017-09-04 11:07:27,445 [10] INFO  Server - Request "/char/list" from: [::1]:54198
+2017-09-04 18:50:16,775 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-04 18:50:16,823 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 18:50:17,002 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-04 18:50:17,003 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 18:50:17,003 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-04 18:50:17,004 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-04 18:50:17,024 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-04 18:50:17,025 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-04 18:50:17,032 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-04 18:50:17,237 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-04 18:50:17,246 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-04 18:50:17,246 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-04 18:50:17,246 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-04 18:50:17,247 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-04 18:50:17,247 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-04 18:50:17,254 [Entry] INFO  Server - Listening at port 8080...
+2017-09-04 18:50:23,135 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:56462
+2017-09-04 18:50:23,143 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:56461
+2017-09-04 18:50:23,149 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:56462
+2017-09-04 18:50:23,150 [3] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:56461
+2017-09-04 18:50:23,152 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:56462
+2017-09-04 18:50:23,152 [7] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:56461
+2017-09-04 18:50:23,153 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:56462
+2017-09-04 18:50:23,153 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:56461
+2017-09-04 18:50:23,154 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:56461
+2017-09-04 18:50:23,154 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:56462
+2017-09-04 18:50:23,156 [7] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:56461
+2017-09-04 18:50:23,156 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:56462
+2017-09-04 18:50:23,158 [6] INFO  Server - Request "/music/sorc4.mp3" from: [::1]:56461
+2017-09-04 18:50:23,259 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:56462
+2017-09-04 18:50:23,334 [6] INFO  Server - Request "/app/init" from: [::1]:56462
+2017-09-04 18:50:23,355 [6] INFO  Server - Request "/char/list" from: [::1]:56462
+2017-09-04 18:50:24,343 [6] INFO  Server - Request "/package/getPackages" from: [::1]:56462
+2017-09-04 18:50:24,356 [6] INFO  Server - Request "/app/globalNews" from: [::1]:56462
+2017-09-04 18:50:24,626 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:56462
+2017-09-04 18:50:27,628 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:56461
+2017-09-04 18:50:27,629 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:56462
+2017-09-04 18:50:32,058 [6] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:56462
+2017-09-04 18:51:08,126 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:56462
+2017-09-04 18:53:50,809 [9] INFO  Server - Request "/music/Death.mp3" from: [::1]:56504
+2017-09-04 18:53:50,957 [9] INFO  Server - Request "/char/fame" from: [::1]:56504
+2017-09-04 18:53:53,410 [9] INFO  Server - Request "/fame/list" from: [::1]:56504
+2017-09-04 18:53:53,958 [9] INFO  Server - Request "/char/list" from: [::1]:56504
+2017-09-04 18:55:31,917 [9] INFO  Server - Request "/char/list" from: [::1]:56528
+2017-09-04 18:55:32,941 [9] INFO  Server - Request "/char/list" from: [::1]:56528
+2017-09-04 18:56:17,522 [9] INFO  Server - Request "/music/Death.mp3" from: [::1]:56528
+2017-09-04 18:56:17,674 [9] INFO  Server - Request "/char/fame" from: [::1]:56528
+2017-09-04 18:56:19,786 [9] INFO  Server - Request "/fame/list" from: [::1]:56528
+2017-09-04 18:56:19,977 [9] INFO  Server - Request "/char/list" from: [::1]:56528
+2017-09-04 18:57:48,542 [9] INFO  Server - Request "/char/list" from: [::1]:56550
+2017-09-04 19:06:55,160 [9] INFO  Server - Request "/music/sorc3.mp3" from: [::1]:56629
+2017-09-04 19:06:55,566 [9] INFO  Server - Request "/sfx/monster/thunder_god_hit.mp3" from: [::1]:56629
+2017-09-04 19:06:55,570 [7] INFO  Server - Request "/sfx/monster/flaming_skulls_death.mp3" from: [::1]:56631
+2017-09-04 19:07:03,750 [7] INFO  Server - Request "/sfx/monster/dwarf_god_death.mp3" from: [::1]:56631
+2017-09-04 19:07:03,750 [7] INFO  Server - Request "/sfx/monster/ogres_hit.mp3" from: [::1]:56629
+2017-09-04 19:08:53,870 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:56646
+2017-09-04 19:08:53,872 [7] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:56647
+2017-09-04 19:08:53,882 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:56647
+2017-09-04 19:08:53,882 [7] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:56646
+2017-09-04 19:08:53,884 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:56647
+2017-09-04 19:08:53,886 [7] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:56646
+2017-09-04 19:08:53,886 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:56647
+2017-09-04 19:08:53,887 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:56647
+2017-09-04 19:08:53,888 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:56646
+2017-09-04 19:08:53,888 [7] INFO  Server - Request "/crossdomain.xml" from: [::1]:56647
+2017-09-04 19:08:53,890 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:56646
+2017-09-04 19:08:53,890 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:56646
+2017-09-04 19:08:53,891 [6] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:56646
+2017-09-04 19:08:53,899 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:56647
+2017-09-04 19:08:53,951 [6] INFO  Server - Request "/app/init" from: [::1]:56646
+2017-09-04 19:08:53,971 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:08:55,079 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:08:56,097 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:08:57,130 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:08:58,147 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:08:59,192 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:09:00,213 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:09:01,246 [6] INFO  Server - Request "/char/list" from: [::1]:56646
+2017-09-04 19:39:33,881 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:56932
+2017-09-04 19:39:33,885 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:56933
+2017-09-04 19:39:33,941 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:56933
+2017-09-04 19:39:33,942 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:56932
+2017-09-04 19:39:33,944 [3] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:56933
+2017-09-04 19:39:33,946 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:56932
+2017-09-04 19:39:33,947 [3] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:56933
+2017-09-04 19:39:33,948 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:56932
+2017-09-04 19:39:33,979 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:56932
+2017-09-04 19:39:34,000 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:56932
+2017-09-04 19:39:34,060 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:56933
+2017-09-04 19:39:34,061 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:56932
+2017-09-04 19:39:34,061 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:56933
+2017-09-04 19:39:34,071 [3] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:56933
+2017-09-04 19:39:34,137 [3] INFO  Server - Request "/app/init" from: [::1]:56933
+2017-09-04 19:39:34,158 [3] INFO  Server - Request "/char/list" from: [::1]:56933
+2017-09-04 19:39:34,524 [3] INFO  Server - Request "/package/getPackages" from: [::1]:56933
+2017-09-04 19:39:34,546 [3] INFO  Server - Request "/app/globalNews" from: [::1]:56933
+2017-09-04 19:39:34,692 [3] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:56933
+2017-09-04 21:15:43,970 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-04 21:15:43,983 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 21:15:44,164 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-04 21:15:44,164 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 21:15:44,165 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-04 21:15:44,165 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-04 21:15:44,182 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-04 21:15:44,184 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-04 21:15:44,192 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-04 21:15:44,370 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-04 21:15:44,382 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-04 21:15:44,382 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-04 21:15:44,382 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-04 21:15:44,382 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-04 21:15:44,382 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-04 21:15:44,388 [Entry] INFO  Server - Listening at port 8080...
+2017-09-04 21:15:53,602 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:58395
+2017-09-04 21:15:53,608 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:58396
+2017-09-04 21:15:53,610 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:58396
+2017-09-04 21:15:53,611 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:58395
+2017-09-04 21:15:53,612 [3] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:58396
+2017-09-04 21:15:53,612 [6] INFO  Server - Request "/music/sorc3.mp3" from: [::1]:58395
+2017-09-04 21:15:53,615 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:58396
+2017-09-04 21:15:53,623 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:58396
+2017-09-04 21:15:53,625 [3] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:58396
+2017-09-04 21:15:53,627 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:58396
+2017-09-04 21:15:53,627 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:58396
+2017-09-04 21:15:53,629 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:58396
+2017-09-04 21:15:53,632 [3] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:58396
+2017-09-04 21:15:53,633 [3] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:58396
+2017-09-04 21:15:53,702 [3] INFO  Server - Request "/app/init" from: [::1]:58396
+2017-09-04 21:15:53,725 [3] INFO  Server - Request "/char/list" from: [::1]:58396
+2017-09-04 21:15:54,044 [3] INFO  Server - Request "/package/getPackages" from: [::1]:58396
+2017-09-04 21:15:54,062 [3] INFO  Server - Request "/app/globalNews" from: [::1]:58396
+2017-09-04 21:15:54,184 [3] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:58396
+2017-09-04 21:25:02,202 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-04 21:25:02,220 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 21:25:02,426 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-04 21:25:02,427 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 21:25:02,427 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-04 21:25:02,428 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-04 21:25:02,452 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-04 21:25:02,454 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-04 21:25:02,463 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-04 21:25:02,725 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-04 21:25:02,739 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-04 21:25:02,739 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-04 21:25:02,739 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-04 21:25:02,739 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-04 21:25:02,739 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-04 21:25:02,746 [Entry] INFO  Server - Listening at port 8080...
+2017-09-04 21:25:14,128 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:58441
+2017-09-04 21:25:14,136 [3] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:58442
+2017-09-04 21:25:14,146 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:58441
+2017-09-04 21:25:14,170 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:58441
+2017-09-04 21:25:14,170 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:58442
+2017-09-04 21:25:14,172 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:58441
+2017-09-04 21:25:14,186 [7] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:58441
+2017-09-04 21:25:14,187 [7] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:58441
+2017-09-04 21:25:14,194 [7] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:58441
+2017-09-04 21:25:14,195 [7] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:58441
+2017-09-04 21:25:14,197 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:58441
+2017-09-04 21:25:14,199 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:58441
+2017-09-04 21:25:14,200 [7] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:58441
+2017-09-04 21:25:14,202 [7] INFO  Server - Request "/music/sorc3.mp3" from: [::1]:58441
+2017-09-04 21:25:14,332 [6] INFO  Server - Request "/app/init" from: [::1]:58442
+2017-09-04 21:25:14,353 [6] INFO  Server - Request "/char/list" from: [::1]:58442
+2017-09-04 21:25:14,707 [6] INFO  Server - Request "/package/getPackages" from: [::1]:58442
+2017-09-04 21:25:14,723 [6] INFO  Server - Request "/app/globalNews" from: [::1]:58442
+2017-09-04 21:25:14,856 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:58442
+2017-09-04 21:25:16,699 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:58441
+2017-09-04 21:25:16,699 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:58442
+2017-09-04 21:25:19,198 [6] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:58442
+2017-09-04 21:25:46,249 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:58442
+2017-09-04 21:28:48,841 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-04 21:28:48,856 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 21:28:49,155 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-04 21:28:49,156 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-04 21:28:49,156 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-04 21:28:49,157 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-04 21:28:49,181 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-04 21:28:49,182 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-04 21:28:49,192 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-04 21:28:49,447 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-04 21:28:49,464 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-04 21:28:49,472 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-04 21:28:49,493 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-04 21:28:49,496 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-04 21:28:49,505 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-04 21:28:49,532 [Entry] INFO  Server - Listening at port 8080...
+2017-09-04 21:29:06,835 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:58461
+2017-09-04 21:29:06,844 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:58460
+2017-09-04 21:29:06,848 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:58460
+2017-09-04 21:29:06,848 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:58461
+2017-09-04 21:29:06,852 [3] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:58460
+2017-09-04 21:29:06,855 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:58461
+2017-09-04 21:29:06,857 [3] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:58460
+2017-09-04 21:29:06,858 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:58461
+2017-09-04 21:29:06,859 [3] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:58460
+2017-09-04 21:29:06,860 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:58461
+2017-09-04 21:29:06,861 [3] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:58461
+2017-09-04 21:29:06,861 [3] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:58460
+2017-09-04 21:29:06,862 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:58461
+2017-09-04 21:29:06,864 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:58461
+2017-09-04 21:29:06,947 [6] INFO  Server - Request "/app/init" from: [::1]:58461
+2017-09-04 21:29:06,970 [6] INFO  Server - Request "/char/list" from: [::1]:58461
+2017-09-04 21:29:07,275 [6] INFO  Server - Request "/package/getPackages" from: [::1]:58461
+2017-09-04 21:29:07,294 [6] INFO  Server - Request "/app/globalNews" from: [::1]:58461
+2017-09-04 21:29:07,440 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:58461
+2017-09-04 21:29:09,506 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:58461
+2017-09-04 21:29:09,507 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:58460
+2017-09-04 21:29:11,381 [6] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:58460
+2017-09-04 21:29:18,919 [6] INFO  Server - Request "/music/stormypalace.mp3" from: [::1]:58460
+2017-09-04 21:29:19,114 [6] INFO  Server - Request "/sfx/monster/skeletons_hit.mp3" from: [::1]:58461
+2017-09-04 21:29:19,114 [6] INFO  Server - Request "/sfx/monster/dwarves_death.mp3" from: [::1]:58460
+2017-09-04 21:29:19,665 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:58460
+2017-09-04 21:29:24,080 [6] INFO  Server - Request "/sfx/monster/dwarf_god_death.mp3" from: [::1]:58460
+2017-09-04 21:29:24,081 [6] INFO  Server - Request "/sfx/monster/ogres_hit.mp3" from: [::1]:58461
+2017-09-04 21:29:43,958 [6] INFO  Server - Request "/sfx/monster/ghosts_hit.mp3" from: [::1]:58461
+2017-09-04 21:29:43,959 [6] INFO  Server - Request "/sfx/monster/skull_shrine_death.mp3" from: [::1]:58460
+2017-09-04 21:29:56,254 [6] INFO  Server - Request "/sfx/monster/wooden_walls_death.mp3" from: [::1]:58460
+2017-09-04 21:29:56,255 [6] INFO  Server - Request "/sfx/monster/rocks_hit.mp3" from: [::1]:58461
+2017-09-04 21:30:14,716 [6] INFO  Server - Request "/sfx/monster/traps_hit.mp3" from: [::1]:58461
+2017-09-04 21:30:22,395 [6] INFO  Server - Request "/sfx/monster/skeletons_death.mp3" from: [::1]:58461
+2017-09-04 21:30:24,362 [6] INFO  Server - Request "/music/Death.mp3" from: [::1]:58461
+2017-09-04 21:30:24,510 [6] INFO  Server - Request "/char/fame" from: [::1]:58461
+2017-09-04 21:30:27,163 [6] INFO  Server - Request "/fame/list" from: [::1]:58461
+2017-09-04 21:30:27,643 [6] INFO  Server - Request "/char/list" from: [::1]:58461
+2017-09-04 21:30:33,331 [6] INFO  Server - Request "/sfx/player/priest_death.mp3" from: [::1]:58461
+2017-09-04 21:30:33,333 [6] INFO  Server - Request "/sfx/player/priest_hit.mp3" from: [::1]:58460
+2017-09-04 21:31:43,865 [6] INFO  Server - Request "/sfx/daggerSwing.mp3" from: [::1]:58481
+2017-09-04 21:31:58,773 [6] INFO  Server - Request "/music/Death.mp3" from: [::1]:58481
+2017-09-04 21:31:58,910 [6] INFO  Server - Request "/char/fame" from: [::1]:58481
+2017-09-04 21:32:00,933 [6] INFO  Server - Request "/fame/list" from: [::1]:58481
+2017-09-04 21:32:01,352 [6] INFO  Server - Request "/char/list" from: [::1]:58481
+2017-09-04 21:33:06,305 [6] INFO  Server - Request "/sfx/monster/spiders_death.mp3" from: [::1]:58488
+2017-09-04 21:33:06,306 [6] INFO  Server - Request "/sfx/monster/spiders_hit.mp3" from: [::1]:58487
+2017-09-04 21:33:38,235 [6] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:58488
+2017-09-04 21:33:38,236 [6] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:58487
+2017-09-04 21:34:24,030 [6] INFO  Server - Request "/sfx/monster/dragons_hit.mp3" from: [::1]:58488
+2017-09-04 21:34:24,030 [6] INFO  Server - Request "/sfx/monster/flaming_skulls_death.mp3" from: [::1]:58487
+2017-09-04 21:34:31,291 [6] INFO  Server - Request "/music/Death.mp3" from: [::1]:58487
+2017-09-04 21:34:31,427 [6] INFO  Server - Request "/char/fame" from: [::1]:58487
+2017-09-06 21:10:10,860 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-06 21:10:10,987 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-06 21:10:11,147 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-06 21:10:11,147 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-06 21:10:11,147 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-06 21:10:11,148 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-06 21:10:11,165 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-06 21:10:11,167 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-06 21:10:11,174 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-06 21:10:11,356 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-06 21:10:11,367 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-06 21:10:11,367 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-06 21:10:11,367 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-06 21:10:11,367 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-06 21:10:11,367 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-06 21:10:11,415 [Entry] INFO  Server - Listening at port 8080...
+2017-09-06 21:10:21,318 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:62298
+2017-09-06 21:10:21,323 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:62299
+2017-09-06 21:10:21,331 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:62299
+2017-09-06 21:10:21,331 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:62298
+2017-09-06 21:10:21,331 [3] INFO  Server - Request "/sfx/error.mp3" from: [::1]:62299
+2017-09-06 21:10:21,332 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:62299
+2017-09-06 21:10:21,332 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:62298
+2017-09-06 21:10:21,333 [7] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:62299
+2017-09-06 21:10:21,334 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:62299
+2017-09-06 21:10:21,334 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:62298
+2017-09-06 21:10:21,335 [7] INFO  Server - Request "/crossdomain.xml" from: [::1]:62299
+2017-09-06 21:10:21,335 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:62298
+2017-09-06 21:10:21,335 [6] INFO  Server - Request "/music/sorc2.mp3" from: [::1]:62298
+2017-09-06 21:10:21,372 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:62299
+2017-09-06 21:10:21,501 [7] INFO  Server - Request "/app/init" from: [::1]:62299
+2017-09-06 21:10:21,522 [7] INFO  Server - Request "/char/list" from: [::1]:62299
+2017-09-06 21:10:22,116 [7] INFO  Server - Request "/package/getPackages" from: [::1]:62299
+2017-09-06 21:10:22,128 [7] INFO  Server - Request "/app/globalNews" from: [::1]:62299
+2017-09-06 21:10:22,366 [7] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:62299
+2017-09-06 21:10:24,522 [7] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:62299
+2017-09-06 21:10:24,522 [7] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:62298
+2017-09-06 21:10:26,372 [7] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:62298
+2017-09-06 21:10:27,433 [7] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:62298
+2017-09-06 21:10:41,951 [7] INFO  Server - Request "/music/meadow.mp3" from: [::1]:62298
+2017-09-06 21:10:42,277 [7] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:62299
+2017-09-06 21:10:42,277 [10] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:62298
+2017-09-06 21:10:47,934 [10] INFO  Server - Request "/music/safe.mp3" from: [::1]:62298
+2017-09-09 16:39:39,603 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-09 16:39:39,632 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 16:39:39,913 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-09 16:39:39,914 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 16:39:39,914 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-09 16:39:39,915 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-09 16:39:39,935 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-09 16:39:39,936 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-09 16:39:39,944 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-09 16:39:40,127 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-09 16:39:40,149 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-09 16:39:40,149 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-09 16:39:40,156 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-09 16:39:40,157 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-09 16:39:40,160 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-09 16:39:55,816 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-09 16:39:55,826 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 16:39:55,964 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-09 16:39:55,965 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 16:39:55,965 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-09 16:39:55,966 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-09 16:39:55,983 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-09 16:39:55,984 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-09 16:39:55,991 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-09 16:39:56,139 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-09 16:39:56,149 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-09 16:39:56,149 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-09 16:39:56,149 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-09 16:39:56,149 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-09 16:39:56,149 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-09 16:39:56,154 [Entry] INFO  Server - Listening at port 8080...
+2017-09-09 16:40:15,187 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:53112
+2017-09-09 16:40:15,193 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:53111
+2017-09-09 16:40:15,195 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:53112
+2017-09-09 16:40:15,195 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:53111
+2017-09-09 16:40:15,196 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:53111
+2017-09-09 16:40:15,197 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:53111
+2017-09-09 16:40:15,197 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:53111
+2017-09-09 16:40:15,197 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:53111
+2017-09-09 16:40:15,198 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:53111
+2017-09-09 16:40:15,198 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:53111
+2017-09-09 16:40:15,198 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:53111
+2017-09-09 16:40:15,199 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:53111
+2017-09-09 16:40:15,199 [6] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:53111
+2017-09-09 16:40:15,384 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:53112
+2017-09-09 16:40:15,481 [6] INFO  Server - Request "/app/init" from: [::1]:53112
+2017-09-09 16:40:15,604 [6] INFO  Server - Request "/char/list" from: [::1]:53112
+2017-09-09 16:40:16,486 [6] INFO  Server - Request "/package/getPackages" from: [::1]:53112
+2017-09-09 16:40:16,505 [6] INFO  Server - Request "/app/globalNews" from: [::1]:53112
+2017-09-09 16:40:16,762 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:53112
+2017-09-09 16:40:22,755 [6] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:53112
+2017-09-09 16:40:23,265 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:53112
+2017-09-09 16:40:23,265 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:53111
+2017-09-09 16:40:23,875 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:53111
+2017-09-09 16:40:27,198 [6] INFO  Server - Request "/char/list" from: [::1]:53111
+2017-09-09 20:27:48,084 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-09 20:27:48,100 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:27:49,570 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-09 20:27:49,573 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:27:49,574 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-09 20:27:49,575 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-09 20:27:49,603 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-09 20:27:49,605 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-09 20:27:49,616 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-09 20:27:49,914 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-09 20:27:49,930 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-09 20:27:49,930 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-09 20:27:49,930 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-09 20:27:49,930 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-09 20:27:49,930 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-09 20:27:49,939 [Entry] INFO  Server - Listening at port 8080...
+2017-09-09 20:28:17,904 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:54536
+2017-09-09 20:28:17,921 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:54535
+2017-09-09 20:28:17,926 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:54535
+2017-09-09 20:28:17,927 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:54536
+2017-09-09 20:28:17,928 [3] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:54535
+2017-09-09 20:28:17,929 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:54536
+2017-09-09 20:28:17,929 [3] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:54535
+2017-09-09 20:28:17,930 [3] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:54535
+2017-09-09 20:28:17,931 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:54536
+2017-09-09 20:28:17,932 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:54535
+2017-09-09 20:28:17,932 [3] INFO  Server - Request "/sfx/error.mp3" from: [::1]:54536
+2017-09-09 20:28:17,933 [3] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:54536
+2017-09-09 20:28:17,953 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:54535
+2017-09-09 20:28:17,969 [3] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:54536
+2017-09-09 20:28:18,096 [3] INFO  Server - Request "/app/init" from: [::1]:54536
+2017-09-09 20:28:18,149 [3] INFO  Server - Request "/char/list" from: [::1]:54536
+2017-09-09 20:28:18,697 [3] INFO  Server - Request "/package/getPackages" from: [::1]:54536
+2017-09-09 20:28:18,707 [3] INFO  Server - Request "/app/globalNews" from: [::1]:54536
+2017-09-09 20:28:18,875 [3] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:54536
+2017-09-09 20:28:21,142 [3] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:54536
+2017-09-09 20:28:21,142 [3] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:54535
+2017-09-09 20:28:24,342 [3] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:54535
+2017-09-09 20:28:25,888 [3] INFO  Server - Request "/sfx/magicShoot.mp3" from: [::1]:54535
+2017-09-09 20:28:50,675 [3] INFO  Server - Request "/music/Nexus2.mp3" from: [::1]:54535
+2017-09-09 20:29:20,914 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:29:40,186 [3] INFO  Server - Request "/sfx/player/archer_hit.mp3" from: [::1]:54566
+2017-09-09 20:29:40,187 [3] INFO  Server - Request "/sfx/player/archer_death.mp3" from: [::1]:54535
+2017-09-09 20:29:44,036 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:29:48,036 [3] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:29:52,522 [3] INFO  Server - Request "/sfx/player/rogue_hit.mp3" from: [::1]:54566
+2017-09-09 20:29:52,523 [3] INFO  Server - Request "/sfx/player/rogue_death.mp3" from: [::1]:54535
+2017-09-09 20:29:56,591 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:29:57,605 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:29:59,888 [3] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:30:09,439 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:30:12,170 [3] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:30:13,420 [3] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:30:30,672 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:30:32,520 [3] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:30:54,438 [3] INFO  Server - Request "/sfx/player/warrior_hit.mp3" from: [::1]:54583
+2017-09-09 20:30:54,439 [3] INFO  Server - Request "/sfx/player/warrior_death.mp3" from: [::1]:54535
+2017-09-09 20:31:05,296 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:31:16,310 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:31:18,237 [3] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:31:23,806 [3] INFO  Server - Request "/sfx/player/samurai_death.mp3" from: [::1]:54583
+2017-09-09 20:31:23,807 [3] INFO  Server - Request "/sfx/player/samurai_hit.mp3" from: [::1]:54535
+2017-09-09 20:31:27,624 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:31:28,637 [3] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:31:31,104 [3] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:31:35,838 [3] INFO  Server - Request "/sfx/bladeSwing.mp3" from: [::1]:54535
+2017-09-09 20:31:40,216 [6] INFO  Server - Request "/char/list" from: [::1]:54535
+2017-09-09 20:31:42,387 [6] INFO  Server - Request "/char/delete" from: [::1]:54535
+2017-09-09 20:31:47,263 [6] INFO  Server - Request "/sfx/daggerSwing.mp3" from: [::1]:54535
+2017-09-09 20:32:06,916 [6] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:06,916 [6] INFO  Server - Request "/sfx/monster/default_death.mp3" from: [::1]:54535
+2017-09-09 20:32:38,041 [6] INFO  Server - Request "/music/argual.mp3" from: [::1]:54535
+2017-09-09 20:32:38,277 [6] INFO  Server - Request "/sfx/monster/snakes_death.mp3" from: [::1]:54535
+2017-09-09 20:32:38,277 [6] INFO  Server - Request "/sfx/monster/pirates_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:38,281 [8] INFO  Server - Request "/sfx/monster/pirates_death.mp3" from: [::1]:54535
+2017-09-09 20:32:38,282 [6] INFO  Server - Request "/sfx/monster/snakes_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:38,283 [9] INFO  Server - Request "/sfx/monster/scorpions_hit.mp3" from: [::1]:54535
+2017-09-09 20:32:38,283 [9] INFO  Server - Request "/sfx/monster/scorpions_death.mp3" from: [::1]:54583
+2017-09-09 20:32:38,284 [9] INFO  Server - Request "/sfx/monster/elves_hit.mp3" from: [::1]:54535
+2017-09-09 20:32:38,284 [6] INFO  Server - Request "/sfx/monster/cubes_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:38,286 [9] INFO  Server - Request "/sfx/monster/elves_death.mp3" from: [::1]:54583
+2017-09-09 20:32:38,286 [9] INFO  Server - Request "/sfx/monster/cubes_death.mp3" from: [::1]:54535
+2017-09-09 20:32:45,334 [9] INFO  Server - Request "/sfx/monster/medusa_death.mp3" from: [::1]:54583
+2017-09-09 20:32:45,335 [9] INFO  Server - Request "/sfx/monster/stone_walls_hit.mp3" from: [::1]:54535
+2017-09-09 20:32:45,336 [6] INFO  Server - Request "/sfx/monster/medusa_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:45,336 [6] INFO  Server - Request "/sfx/monster/djinn_death.mp3" from: [::1]:54583
+2017-09-09 20:32:45,337 [6] INFO  Server - Request "/sfx/monster/djinn_hit.mp3" from: [::1]:54535
+2017-09-09 20:32:45,338 [9] INFO  Server - Request "/sfx/monster/greater_demons_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:45,339 [6] INFO  Server - Request "/sfx/monster/stone_walls_death.mp3" from: [::1]:54535
+2017-09-09 20:32:45,340 [6] INFO  Server - Request "/sfx/monster/greater_demons_death.mp3" from: [::1]:54535
+2017-09-09 20:32:45,545 [6] INFO  Server - Request "/sfx/monster/rocks_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:45,545 [6] INFO  Server - Request "/sfx/monster/rocks_death.mp3" from: [::1]:54535
+2017-09-09 20:32:45,547 [9] INFO  Server - Request "/sfx/monster/wooden_walls_hit.mp3" from: [::1]:54583
+2017-09-09 20:32:45,548 [9] INFO  Server - Request "/sfx/monster/wooden_walls_death.mp3" from: [::1]:54535
+2017-09-09 20:33:58,726 [9] INFO  Server - Request "/sfx/monster/ghost_god_death.mp3" from: [::1]:54598
+2017-09-09 20:33:58,727 [9] INFO  Server - Request "/sfx/monster/ghost_god_hit.mp3" from: [::1]:54599
+2017-09-09 20:34:29,523 [9] INFO  Server - Request "/sfx/monster/flaming_skulls_death.mp3" from: [::1]:54599
+2017-09-09 20:34:33,861 [9] INFO  Server - Request "/sfx/monster/cyclops_death.mp3" from: [::1]:54598
+2017-09-09 20:34:33,861 [9] INFO  Server - Request "/sfx/monster/cyclops_hit.mp3" from: [::1]:54599
+2017-09-09 20:34:37,794 [9] INFO  Server - Request "/sfx/monster/ents_hit.mp3" from: [::1]:54599
+2017-09-09 20:34:37,794 [10] INFO  Server - Request "/sfx/monster/ents_death.mp3" from: [::1]:54598
+2017-09-09 20:34:41,104 [10] INFO  Server - Request "/sfx/monster/beholder_death.mp3" from: [::1]:54599
+2017-09-09 20:34:41,104 [10] INFO  Server - Request "/sfx/monster/beholder_hit.mp3" from: [::1]:54598
+2017-09-09 20:34:42,137 [10] INFO  Server - Request "/sfx/monster/sprite_god_hit.mp3" from: [::1]:54599
+2017-09-09 20:34:42,137 [10] INFO  Server - Request "/sfx/monster/sprites_hit.mp3" from: [::1]:54598
+2017-09-09 20:34:42,138 [11] INFO  Server - Request "/sfx/monster/sprite_god_death.mp3" from: [::1]:54599
+2017-09-09 20:34:42,138 [10] INFO  Server - Request "/sfx/monster/sprites_death.mp3" from: [::1]:54598
+2017-09-09 20:34:46,463 [11] INFO  Server - Request "/sfx/monster/hobbits_death.mp3" from: [::1]:54599
+2017-09-09 20:34:46,463 [11] INFO  Server - Request "/sfx/monster/hobbits_hit.mp3" from: [::1]:54598
+2017-09-09 20:39:23,744 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-09 20:39:23,763 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:39:24,194 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-09 20:39:24,195 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:39:24,196 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-09 20:39:24,197 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-09 20:39:24,224 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-09 20:39:24,226 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-09 20:39:24,236 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-09 20:39:24,516 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-09 20:39:24,531 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-09 20:39:24,531 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-09 20:39:24,531 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-09 20:39:24,531 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-09 20:39:24,531 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-09 20:39:24,540 [Entry] INFO  Server - Listening at port 8080...
+2017-09-09 20:39:32,048 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:54629
+2017-09-09 20:39:32,066 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:54628
+2017-09-09 20:39:32,068 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:54628
+2017-09-09 20:39:32,069 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:54629
+2017-09-09 20:39:32,071 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:54629
+2017-09-09 20:39:32,072 [3] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:54628
+2017-09-09 20:39:32,073 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:54629
+2017-09-09 20:39:32,074 [8] INFO  Server - Request "/music/sorc5.mp3" from: [::1]:54628
+2017-09-09 20:39:32,075 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:54629
+2017-09-09 20:39:32,078 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:54629
+2017-09-09 20:39:32,080 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:54629
+2017-09-09 20:39:32,083 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:54629
+2017-09-09 20:39:32,084 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:54629
+2017-09-09 20:39:32,085 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:54629
+2017-09-09 20:39:32,167 [6] INFO  Server - Request "/app/init" from: [::1]:54629
+2017-09-09 20:39:32,192 [6] INFO  Server - Request "/char/list" from: [::1]:54629
+2017-09-09 20:39:32,536 [6] INFO  Server - Request "/package/getPackages" from: [::1]:54629
+2017-09-09 20:39:32,551 [6] INFO  Server - Request "/app/globalNews" from: [::1]:54629
+2017-09-09 20:39:32,694 [6] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:54629
+2017-09-09 20:40:05,712 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:54628
+2017-09-09 20:40:05,712 [6] INFO  Server - Request "/sfx/player/samurai_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:05,712 [9] INFO  Server - Request "/sfx/player/samurai_death.mp3" from: [::1]:54628
+2017-09-09 20:40:05,731 [10] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:09,337 [10] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:54629
+2017-09-09 20:40:32,410 [10] INFO  Server - Request "/music/argual.mp3" from: [::1]:54629
+2017-09-09 20:40:32,700 [10] INFO  Server - Request "/sfx/monster/snakes_death.mp3" from: [::1]:54628
+2017-09-09 20:40:32,700 [10] INFO  Server - Request "/sfx/monster/scorpions_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:32,713 [11] INFO  Server - Request "/sfx/monster/scorpions_death.mp3" from: [::1]:54628
+2017-09-09 20:40:32,721 [10] INFO  Server - Request "/sfx/monster/pirates_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:32,723 [11] INFO  Server - Request "/sfx/monster/pirates_death.mp3" from: [::1]:54628
+2017-09-09 20:40:32,725 [11] INFO  Server - Request "/sfx/monster/hobbits_hit.mp3" from: [::1]:54628
+2017-09-09 20:40:32,725 [11] INFO  Server - Request "/sfx/monster/snakes_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:32,732 [10] INFO  Server - Request "/sfx/monster/hobbits_death.mp3" from: [::1]:54628
+2017-09-09 20:40:34,506 [10] INFO  Server - Request "/sfx/monster/cubes_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:34,507 [10] INFO  Server - Request "/sfx/monster/cubes_death.mp3" from: [::1]:54628
+2017-09-09 20:40:39,148 [10] INFO  Server - Request "/sfx/monster/night_elves_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:39,149 [10] INFO  Server - Request "/sfx/monster/night_elves_death.mp3" from: [::1]:54628
+2017-09-09 20:40:39,366 [10] INFO  Server - Request "/sfx/monster/elves_death.mp3" from: [::1]:54629
+2017-09-09 20:40:39,366 [10] INFO  Server - Request "/sfx/monster/elves_hit.mp3" from: [::1]:54628
+2017-09-09 20:40:39,976 [10] INFO  Server - Request "/sfx/monster/goblins_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:39,977 [10] INFO  Server - Request "/sfx/monster/goblins_death.mp3" from: [::1]:54628
+2017-09-09 20:40:40,155 [10] INFO  Server - Request "/sfx/daggerSwing.mp3" from: [::1]:54628
+2017-09-09 20:40:49,023 [10] INFO  Server - Request "/sfx/monster/sprites_hit.mp3" from: [::1]:54629
+2017-09-09 20:40:49,025 [10] INFO  Server - Request "/sfx/monster/sprites_death.mp3" from: [::1]:54628
+2017-09-09 20:40:49,225 [10] INFO  Server - Request "/sfx/monster/sprite_god_death.mp3" from: [::1]:54629
+2017-09-09 20:40:49,226 [10] INFO  Server - Request "/sfx/monster/sprite_god_hit.mp3" from: [::1]:54628
+2017-09-09 20:41:40,223 [10] INFO  Server - Request "/sfx/monster/flying_brain_hit.mp3" from: [::1]:54628
+2017-09-09 20:41:40,225 [10] INFO  Server - Request "/sfx/monster/flying_brain_death.mp3" from: [::1]:54629
+2017-09-09 20:41:47,289 [10] INFO  Server - Request "/sfx/monster/slimes_hit.mp3" from: [::1]:54628
+2017-09-09 20:41:47,290 [10] INFO  Server - Request "/sfx/monster/slimes_death.mp3" from: [::1]:54629
+2017-09-09 20:42:14,005 [10] INFO  Server - Request "/sfx/monster/medusa_death.mp3" from: [::1]:54629
+2017-09-09 20:42:14,006 [10] INFO  Server - Request "/sfx/monster/medusa_hit.mp3" from: [::1]:54628
+2017-09-09 20:42:15,871 [10] INFO  Server - Request "/sfx/monster/djinn_hit.mp3" from: [::1]:54628
+2017-09-09 20:42:15,871 [10] INFO  Server - Request "/sfx/monster/djinn_death.mp3" from: [::1]:54629
+2017-09-09 20:42:16,905 [10] INFO  Server - Request "/sfx/monster/beholder_death.mp3" from: [::1]:54628
+2017-09-09 20:42:16,906 [10] INFO  Server - Request "/sfx/monster/beholder_hit.mp3" from: [::1]:54629
+2017-09-09 20:44:09,498 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-09 20:44:09,514 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:44:09,743 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-09 20:44:09,743 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:44:09,744 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-09 20:44:09,745 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-09 20:44:09,769 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-09 20:44:09,771 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-09 20:44:09,780 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-09 20:44:10,034 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-09 20:44:10,049 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-09 20:44:10,050 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-09 20:44:10,050 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-09 20:44:10,050 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-09 20:44:10,050 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-09 20:44:10,057 [Entry] INFO  Server - Listening at port 8080...
+2017-09-09 20:44:29,741 [6] INFO  Server - Request "/crossdomain.xml" from: [::1]:54681
+2017-09-09 20:44:29,752 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:54680
+2017-09-09 20:44:29,756 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:54680
+2017-09-09 20:44:29,757 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:54681
+2017-09-09 20:44:29,757 [3] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:54680
+2017-09-09 20:44:29,764 [7] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:54680
+2017-09-09 20:44:29,765 [7] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:54681
+2017-09-09 20:44:29,769 [3] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:54680
+2017-09-09 20:44:29,770 [7] INFO  Server - Request "/sfx/error.mp3" from: [::1]:54681
+2017-09-09 20:44:29,772 [3] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:54681
+2017-09-09 20:44:29,772 [3] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:54680
+2017-09-09 20:44:29,776 [7] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:54681
+2017-09-09 20:44:29,776 [3] INFO  Server - Request "/music/sorc4.mp3" from: [::1]:54680
+2017-09-09 20:44:29,782 [7] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:54681
+2017-09-09 20:44:29,908 [7] INFO  Server - Request "/app/init" from: [::1]:54681
+2017-09-09 20:44:29,938 [7] INFO  Server - Request "/char/list" from: [::1]:54681
+2017-09-09 20:44:30,299 [7] INFO  Server - Request "/package/getPackages" from: [::1]:54681
+2017-09-09 20:44:30,310 [7] INFO  Server - Request "/app/globalNews" from: [::1]:54681
+2017-09-09 20:44:30,433 [7] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:54681
+2017-09-09 20:44:40,204 [7] INFO  Server - Request "/sfx/player/samurai_death.mp3" from: [::1]:54681
+2017-09-09 20:44:40,205 [7] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:54680
+2017-09-09 20:44:40,205 [3] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:54681
+2017-09-09 20:44:40,208 [3] INFO  Server - Request "/sfx/player/samurai_hit.mp3" from: [::1]:54680
+2017-09-09 20:44:42,191 [3] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:54680
+2017-09-09 20:44:58,248 [3] INFO  Server - Request "/sfx/daggerSwing.mp3" from: [::1]:54680
+2017-09-09 20:45:01,845 [10] INFO  Server - Request "/music/realm.mp3" from: [::1]:54680
+2017-09-09 20:45:02,071 [10] INFO  Server - Request "/sfx/monster/scorpions_death.mp3" from: [::1]:54680
+2017-09-09 20:45:02,071 [10] INFO  Server - Request "/sfx/monster/pirates_hit.mp3" from: [::1]:54681
+2017-09-09 20:45:02,074 [3] INFO  Server - Request "/sfx/monster/pirates_death.mp3" from: [::1]:54680
+2017-09-09 20:45:02,075 [10] INFO  Server - Request "/sfx/monster/hobbits_hit.mp3" from: [::1]:54681
+2017-09-09 20:45:02,076 [11] INFO  Server - Request "/sfx/monster/scorpions_hit.mp3" from: [::1]:54681
+2017-09-09 20:45:02,077 [11] INFO  Server - Request "/sfx/monster/hobbits_death.mp3" from: [::1]:54680
+2017-09-09 20:45:09,912 [11] INFO  Server - Request "/sfx/monster/flying_brain_hit.mp3" from: [::1]:54680
+2017-09-09 20:45:09,912 [11] INFO  Server - Request "/sfx/monster/flying_brain_death.mp3" from: [::1]:54681
+2017-09-09 20:45:09,913 [10] INFO  Server - Request "/sfx/monster/greater_demons_hit.mp3" from: [::1]:54680
+2017-09-09 20:45:09,913 [11] INFO  Server - Request "/sfx/monster/greater_demons_death.mp3" from: [::1]:54681
+2017-09-09 20:45:10,328 [11] INFO  Server - Request "/sfx/monster/sprite_god_hit.mp3" from: [::1]:54680
+2017-09-09 20:45:10,329 [11] INFO  Server - Request "/sfx/monster/sprites_death.mp3" from: [::1]:54681
+2017-09-09 20:45:10,330 [11] INFO  Server - Request "/sfx/monster/sprites_hit.mp3" from: [::1]:54680
+2017-09-09 20:45:10,331 [11] INFO  Server - Request "/sfx/monster/sprite_god_death.mp3" from: [::1]:54681
+2017-09-09 20:45:18,462 [11] INFO  Server - Request "/sfx/monster/ents_hit.mp3" from: [::1]:54680
+2017-09-09 20:45:18,463 [11] INFO  Server - Request "/sfx/monster/ents_death.mp3" from: [::1]:54681
+2017-09-09 20:45:19,299 [11] INFO  Server - Request "/sfx/monster/goblins_death.mp3" from: [::1]:54680
+2017-09-09 20:45:19,300 [11] INFO  Server - Request "/sfx/monster/goblins_hit.mp3" from: [::1]:54681
+2017-09-09 20:45:19,301 [11] INFO  Server - Request "/sfx/monster/stone_walls_death.mp3" from: [::1]:54681
+2017-09-09 20:45:19,301 [11] INFO  Server - Request "/sfx/monster/stone_walls_hit.mp3" from: [::1]:54680
+2017-09-09 20:45:19,728 [11] INFO  Server - Request "/sfx/monster/beholder_death.mp3" from: [::1]:54681
+2017-09-09 20:45:19,728 [11] INFO  Server - Request "/sfx/monster/beholder_hit.mp3" from: [::1]:54680
+2017-09-09 20:45:19,928 [11] INFO  Server - Request "/sfx/monster/rocks_death.mp3" from: [::1]:54680
+2017-09-09 20:45:19,929 [11] INFO  Server - Request "/sfx/monster/wooden_walls_hit.mp3" from: [::1]:54681
+2017-09-09 20:45:19,931 [11] INFO  Server - Request "/sfx/monster/rocks_hit.mp3" from: [::1]:54681
+2017-09-09 20:45:19,934 [11] INFO  Server - Request "/sfx/monster/wooden_walls_death.mp3" from: [::1]:54680
+2017-09-09 20:45:41,723 [11] INFO  Server - Request "/sfx/monster/djinn_death.mp3" from: [::1]:54681
+2017-09-09 20:45:41,724 [11] INFO  Server - Request "/sfx/monster/djinn_hit.mp3" from: [::1]:54680
+2017-09-09 20:49:57,115 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-09-09 20:49:57,129 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:49:57,305 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-09-09 20:49:57,305 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-09-09 20:49:57,306 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data'...
+2017-09-09 20:49:57,306 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml'(1/4)...
+2017-09-09 20:49:57,330 [Entry] INFO  db.data.XmlData - Auto assigned 'Task Tablet: Inactive' to 0xe2a2
+2017-09-09 20:49:57,332 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml'(2/4)...
+2017-09-09 20:49:57,341 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml'(3/4)...
+2017-09-09 20:49:57,549 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-09-09 20:49:57,563 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-09-09 20:49:57,564 [Entry] INFO  db.data.XmlData - 2016 Items
+2017-09-09 20:49:57,564 [Entry] INFO  db.data.XmlData - 437 Tiles
+2017-09-09 20:49:57,564 [Entry] INFO  db.data.XmlData - 3071 Objects
+2017-09-09 20:49:57,564 [Entry] INFO  db.data.XmlData - 16 Additions
+2017-09-09 20:49:57,570 [Entry] INFO  Server - Listening at port 8080...
+2017-09-09 20:50:05,596 [6] INFO  Server - Request "/sfx/unbox_scroll.mp3" from: [::1]:54721
+2017-09-09 20:50:05,605 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: [::1]:54720
+2017-09-09 20:50:05,609 [6] INFO  Server - Request "/sfx/button_click.mp3" from: [::1]:54721
+2017-09-09 20:50:05,610 [3] INFO  Server - Request "/crossdomain.xml" from: [::1]:54720
+2017-09-09 20:50:05,611 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: [::1]:54721
+2017-09-09 20:50:05,612 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: [::1]:54721
+2017-09-09 20:50:05,613 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: [::1]:54720
+2017-09-09 20:50:05,614 [6] INFO  Server - Request "/sfx/level_up.mp3" from: [::1]:54721
+2017-09-09 20:50:05,616 [8] INFO  Server - Request "/sfx/loot_appears.mp3" from: [::1]:54720
+2017-09-09 20:50:05,617 [6] INFO  Server - Request "/sfx/error.mp3" from: [::1]:54721
+2017-09-09 20:50:05,618 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: [::1]:54721
+2017-09-09 20:50:05,618 [6] INFO  Server - Request "/sfx/use_key.mp3" from: [::1]:54720
+2017-09-09 20:50:05,619 [8] INFO  Server - Request "/music/sorc.mp3" from: [::1]:54721
+2017-09-09 20:50:05,619 [6] INFO  Server - Request "/app/getLanguageStrings" from: [::1]:54720
+2017-09-09 20:50:05,712 [8] INFO  Server - Request "/app/init" from: [::1]:54721
+2017-09-09 20:50:05,739 [8] INFO  Server - Request "/char/list" from: [::1]:54721
+2017-09-09 20:50:06,054 [8] INFO  Server - Request "/package/getPackages" from: [::1]:54721
+2017-09-09 20:50:06,073 [8] INFO  Server - Request "/app/globalNews" from: [::1]:54721
+2017-09-09 20:50:06,196 [8] INFO  Server - Request "/mysterybox/getBoxes" from: [::1]:54721
+2017-09-09 20:50:36,453 [8] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: [::1]:54720
+2017-09-09 20:50:36,453 [8] INFO  Server - Request "/sfx/player/samurai_death.mp3" from: [::1]:54721
+2017-09-09 20:50:36,454 [9] INFO  Server - Request "/sfx/player/samurai_hit.mp3" from: [::1]:54721
+2017-09-09 20:50:36,455 [9] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: [::1]:54720
+2017-09-09 20:50:38,439 [9] INFO  Server - Request "/music/Nexus.mp3" from: [::1]:54720
+2017-09-09 20:50:39,809 [9] INFO  Server - Request "/sfx/daggerSwing.mp3" from: [::1]:54720
+2017-09-09 20:50:49,250 [9] INFO  Server - Request "/music/realm.mp3" from: [::1]:54720
+2017-09-09 20:50:49,474 [9] INFO  Server - Request "/sfx/monster/scorpions_death.mp3" from: [::1]:54721
+2017-09-09 20:50:49,474 [9] INFO  Server - Request "/sfx/monster/scorpions_hit.mp3" from: [::1]:54720
+2017-09-09 20:50:49,475 [9] INFO  Server - Request "/sfx/monster/pirates_death.mp3" from: [::1]:54721
+2017-09-09 20:50:49,475 [8] INFO  Server - Request "/sfx/monster/pirates_hit.mp3" from: [::1]:54720
+2017-09-09 20:50:49,476 [8] INFO  Server - Request "/sfx/monster/dark_elves_hit.mp3" from: [::1]:54721
+2017-09-09 20:50:49,477 [8] INFO  Server - Request "/sfx/monster/dark_elves_death.mp3" from: [::1]:54720
+2017-09-09 20:50:55,507 [8] INFO  Server - Request "/sfx/monster/greater_demons_hit.mp3" from: [::1]:54721
+2017-09-09 20:50:55,508 [8] INFO  Server - Request "/sfx/monster/greater_demons_death.mp3" from: [::1]:54720
+2017-09-09 20:50:56,899 [8] INFO  Server - Request "/sfx/monster/beholder_hit.mp3" from: [::1]:54721
+2017-09-09 20:50:56,899 [8] INFO  Server - Request "/sfx/monster/beholder_death.mp3" from: [::1]:54720
+2017-09-09 20:50:57,099 [8] INFO  Server - Request "/sfx/monster/stone_walls_hit.mp3" from: [::1]:54721
+2017-09-09 20:50:57,099 [8] INFO  Server - Request "/sfx/monster/stone_walls_death.mp3" from: [::1]:54720
+2017-09-09 20:50:57,532 [8] INFO  Server - Request "/sfx/monster/rocks_death.mp3" from: [::1]:54720
+2017-09-09 20:50:57,532 [8] INFO  Server - Request "/sfx/monster/wooden_walls_death.mp3" from: [::1]:54721
+2017-09-09 20:50:57,533 [8] INFO  Server - Request "/sfx/monster/wooden_walls_hit.mp3" from: [::1]:54721
+2017-09-09 20:50:57,534 [8] INFO  Server - Request "/sfx/monster/rocks_hit.mp3" from: [::1]:54720
+2017-09-09 20:51:01,930 [8] INFO  Server - Request "/sfx/monster/dwarves_hit.mp3" from: [::1]:54720
+2017-09-09 20:51:01,930 [8] INFO  Server - Request "/sfx/monster/dwarves_death.mp3" from: [::1]:54721
+2017-09-09 20:51:07,950 [8] INFO  Server - Request "/sfx/monster/slimes_death.mp3" from: [::1]:54720
+2017-09-09 20:51:07,951 [8] INFO  Server - Request "/sfx/monster/slimes_hit.mp3" from: [::1]:54721
+2017-09-09 20:51:09,616 [8] INFO  Server - Request "/sfx/monster/medusa_death.mp3" from: [::1]:54721
+2017-09-09 20:51:09,617 [8] INFO  Server - Request "/sfx/monster/greater_pit_snakes_hit.mp3" from: [::1]:54720

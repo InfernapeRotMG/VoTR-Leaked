@@ -1,0 +1,1090 @@
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\data\Addition.xml
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\data\dat0.xml
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\data\dat1.xml
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\data\EquipmentSets.xml
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\bannednames.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\UnlockedAccounts.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\app\Languages\en.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\404.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\AssembleeGameClient201409192100.swf
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\cookielib.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\GiftCodeSuccess.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\scarabs.gif
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\Testing.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\InvalidGiftCode.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\GiftCode.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\TestingIsOffline.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\TestingIsOffline.png
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\testingVersion.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\TransferAccount.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\verifyFail.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\verifySuccess.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\css\KBPAY.css
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\css\rotmg.common.css
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\css\skin_rotmg.css
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\favicon.ico
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\images\logo-300x65.png
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\AC_OETags.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\base_single_icon.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\jquery-1.7.1.min.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\jquery-1.8.0.min.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\KBPAY_api(1).js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\KBPAY_api.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\legacyRadioController.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\pct.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\rotmg.KabamPayment.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\rotmg.Marketing.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\rotmg.SalesForce.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\rotmg.UrlLib.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\js\trimpath-template-1.0.38.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\logowtext.png
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\constants.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\dump.css
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\export.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\favicon.png
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\hp.png
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\jquery.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\jquery.masonry.min.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\jquery.min.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\masonry.pkgd.min.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\mp.png
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\muledump.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\options.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\pcstats.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\portrait.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\prices.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\renders.png
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\sheets.js
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\muledump.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\rmgdirectp2.htm
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\saved_resource.htm
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\login.html
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\userData.htm
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\app\globalNews\globalNews.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\version.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\init.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\package\391.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\package\393.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\package\392.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\package\MysteryBox.xml
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\package\Packages.xml
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\deplister.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_bz2.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_com_dotnet.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_curl.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_enchant.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_exif.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_fileinfo.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_gd2.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_gettext.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_gmp.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_imap.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_intl.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_ldap.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_mbstring.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_mysql.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_mysqli.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_pdo_mysql.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_pdo_odbc.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_pdo_pgsql.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_pdo_sqlite.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_pgsql.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ext\php_shmop.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\glib-2.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\gmodule-2.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\icudt54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\icuin54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\icuio54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\icule54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\iculx54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\icutest54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\icutu54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\icuuc54.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\install.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\libeay32.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\libenchant.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\libpq.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\libsasl.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\libssh2.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\lib\enchant\libenchant_ispell.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\lib\enchant\libenchant_myspell.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\license.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\news.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php-cgi.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php-win.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php.gif
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php5apache2_4.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php5phpdbg.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php5ts.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\phpdbg.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\readme-redist-bins.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\snapshot.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\ssleay32.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\sorc prod.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\app\Languages\it.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\app\Languages\fr.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\app\Languages\es.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\app\Languages\ru.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\app\Languages\de.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\CHANGELOG.md
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\lib\mulelogin.au3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\README.md
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\sf_code.jsp
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\sf_main.jsp
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\sf_preloader.jsp
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\log4net_server.config
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\dev\php5ts.lib
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\extras\ssl\openssl.cnf
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\phar.phar.bat
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\pharcommand.phar
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php.ini
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\php\php5embed.lib
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\server.cfg
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\game\index.php
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\arrowShoot.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\bladeSwing.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\button_click.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\daggerSwing.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\death_screen (old).mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\death_screen.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\enter_realm.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\error.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\inventory_move_item.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\level_up.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\loot_appears.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\magicShoot.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\abyss_brutes_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\abyss_brutes_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\abyss_demons_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\abyss_demons_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\bats_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\bats_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\beholder_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\beholder_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\blobs_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\blobs_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\cave_pirates_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\cave_pirates_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\chicken_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\chicken_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\cubes_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\cubes_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\cyclops_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\cyclops_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dark_elves_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dark_elves_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\default_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\default_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\demons_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\demons_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\djinn_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\djinn_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dragons_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dragons_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dwarf_god_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dwarf_god_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dwarves_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\dwarves_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\eggs_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\eggs_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\elves_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\elves_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ents_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ents_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\flaming_skulls_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\flaming_skulls_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\flayers_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\flayers_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\flying_brain_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\flying_brain_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ghosts_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ghosts_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ghost_god_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ghost_god_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\goblins_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\goblins_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\golems_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\golems_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\greater_demons_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\greater_demons_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\greater_pit_snakes_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\greater_pit_snakes_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\hobbits_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\hobbits_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\lizard_god_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\lizard_god_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\medusa_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\medusa_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\minion_of_oryx_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\minion_of_oryx_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\mummies_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\mummies_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\night_elves_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\night_elves_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ogres_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\ogres_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\orcs_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\orcs_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\oryx_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\oryx_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pirates_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pirates_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pirate_king_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pirate_king_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pit_snakes_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pit_snakes_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pythons_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\pythons_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\rocks_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\rocks_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\scorpions_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\scorpions_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\skeletons_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\skeletons_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\skull_shrine_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\skull_shrine_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\slimes_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\slimes_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\snakes_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\snakes_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\snake_queen_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\snake_queen_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\spiders_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\spiders_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\spider_queen_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\spider_queen_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\sprites_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\sprites_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\sprite_god_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\sprite_god_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\stone_walls_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\stone_walls_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\thunder_god_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\thunder_god_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\traps_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\traps_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\trees_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\trees_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\undead_dwarves_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\undead_dwarves_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\undead_hobbits_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\undead_hobbits_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\wooden_walls_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\monster\wooden_walls_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\sorc.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\no_mana.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\archer_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\archer_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\knight_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\knight_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\paladin_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\paladin_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\priest_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\priest_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\rogue_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\rogue_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\samurai_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\samurai_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\warrior_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\warrior_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\wizard_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\player\wizard_hit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\spell\fire_nova.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\spell\fire_spray.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\spell\light_heal.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\spell\magic_nova.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\spell\major_heal.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\use_key.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\use_potion.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\blunt_dagger.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\blunt_sword.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\crossbow.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\dirk.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\double_bow.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\firework.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\fire_bow.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\fire_dagger.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\fire_sword.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\fire_wand.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\glass_sword.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\golden_bow.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\golden_dagger.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\golden_sword.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\heavy_crossbow.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\hells_fire_wand.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\long_sword.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\missile_wand.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\mithril_dagger.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\mithril_sword.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\obsidian_dagger.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\poison_fang_dagger.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\poor_quality_bow.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\sprite_wand.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\wand_of_dark_magic.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\weapon\wand_of_death.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\sorc2.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\sorc3.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\Nexus.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\aldragine.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\bastille.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\dark fallout.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\dedte.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\dojo.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\lab.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\magic.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\magical_theme.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\pirates.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\sorc4.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\Spooky.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\realm.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\crimson.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\catacombs.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\hive.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\safe.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\Spooky2.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\abyss.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\ceme.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\domain.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\epicspiderden.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\jungle.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\locker.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\manor.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\Nexus2.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\oryxcastle.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\oryxchamber.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\snakepit.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\spiderden.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\spriteworld.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\tomb.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\trench.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\udl.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\icecave.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\forest.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\abandoned.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\concealment.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\coreofthehideout.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\draconis.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\galactic.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\stormypalace.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\troll.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\tunnel.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\unspeakable.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\unspeakableboss.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\caverns.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\argual.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\desolate.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\meadow.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\sorc5.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\sfx\music\sorc6.mp3
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\server.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\bin\Debug\server.pdb
+C:\Users\votrProject\Desktop\New folder\master\votr\server\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\votrProject\Desktop\New folder\master\votr\server\obj\x86\Debug\server.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\server\obj\x86\Debug\server.pdb
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\data\Addition.xml
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\data\dat0.xml
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\data\dat1.xml
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\data\EquipmentSets.xml
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\bannednames.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\UnlockedAccounts.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\404.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\AssembleeGameClient201409192100.swf
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\cookielib.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\GiftCodeSuccess.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\scarabs.gif
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\Testing.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\InvalidGiftCode.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\GiftCode.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\TestingIsOffline.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\TestingIsOffline.png
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\testingVersion.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\TransferAccount.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\verifyFail.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\verifySuccess.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\css\KBPAY.css
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\css\rotmg.common.css
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\css\skin_rotmg.css
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\favicon.ico
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\images\logo-300x65.png
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\AC_OETags.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\base_single_icon.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\jquery-1.7.1.min.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\jquery-1.8.0.min.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\KBPAY_api(1).js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\KBPAY_api.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\legacyRadioController.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\pct.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\rotmg.KabamPayment.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\rotmg.Marketing.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\rotmg.SalesForce.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\rotmg.UrlLib.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\js\trimpath-template-1.0.38.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\logowtext.png
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\constants.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\dump.css
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\export.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\favicon.png
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\hp.png
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\jquery.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\jquery.masonry.min.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\jquery.min.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\masonry.pkgd.min.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\mp.png
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\muledump.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\options.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\pcstats.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\portrait.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\prices.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\renders.png
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\sheets.js
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\muledump.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\rmgdirectp2.htm
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\saved_resource.htm
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\login.html
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\userData.htm
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\version.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\init.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\package\391.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\package\393.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\package\392.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\package\Packages.xml
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\deplister.exe
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_bz2.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_com_dotnet.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_curl.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_enchant.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_exif.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_fileinfo.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_gd2.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_gettext.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_gmp.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_imap.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_intl.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_ldap.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_mbstring.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_mysql.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_mysqli.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_pdo_mysql.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_pdo_odbc.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_pdo_pgsql.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_pdo_sqlite.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_pgsql.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ext\php_shmop.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\glib-2.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\gmodule-2.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\icudt54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\icuin54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\icuio54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\icule54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\iculx54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\icutest54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\icutu54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\icuuc54.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\install.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\libeay32.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\libenchant.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\libpq.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\libsasl.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\libssh2.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\lib\enchant\libenchant_ispell.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\lib\enchant\libenchant_myspell.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\license.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\news.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php-cgi.exe
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php-win.exe
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php.exe
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php.gif
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php5apache2_4.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php5phpdbg.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php5ts.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\phpdbg.exe
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\readme-redist-bins.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\snapshot.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\ssleay32.dll
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\sorc prod.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\CHANGELOG.md
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\lib\mulelogin.au3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\README.md
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\sf_code.jsp
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\sf_main.jsp
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\sf_preloader.jsp
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\log4net_server.config
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\dev\php5ts.lib
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\extras\ssl\openssl.cnf
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\phar.phar.bat
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\pharcommand.phar
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php.ini
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\php\php5embed.lib
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\server.cfg
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\game\index.php
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\arrowShoot.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\bladeSwing.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\button_click.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\daggerSwing.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\death_screen (old).mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\death_screen.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\enter_realm.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\error.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\inventory_move_item.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\level_up.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\loot_appears.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\magicShoot.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\abyss_brutes_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\abyss_brutes_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\abyss_demons_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\abyss_demons_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\bats_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\bats_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\beholder_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\beholder_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\blobs_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\blobs_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\cave_pirates_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\cave_pirates_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\chicken_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\chicken_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\cubes_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\cubes_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\cyclops_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\cyclops_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dark_elves_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dark_elves_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\default_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\default_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\demons_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\demons_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\djinn_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\djinn_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dragons_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dragons_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dwarf_god_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dwarf_god_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dwarves_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\dwarves_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\eggs_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\eggs_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\elves_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\elves_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ents_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ents_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\flaming_skulls_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\flaming_skulls_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\flayers_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\flayers_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\flying_brain_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\flying_brain_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ghosts_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ghosts_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ghost_god_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ghost_god_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\goblins_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\goblins_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\golems_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\golems_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\greater_demons_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\greater_demons_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\greater_pit_snakes_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\greater_pit_snakes_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\hobbits_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\hobbits_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\lizard_god_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\lizard_god_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\medusa_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\medusa_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\minion_of_oryx_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\minion_of_oryx_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\mummies_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\mummies_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\night_elves_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\night_elves_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ogres_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\ogres_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\orcs_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\orcs_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\oryx_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\oryx_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pirates_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pirates_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pirate_king_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pirate_king_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pit_snakes_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pit_snakes_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pythons_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\pythons_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\rocks_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\rocks_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\scorpions_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\scorpions_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\skeletons_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\skeletons_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\skull_shrine_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\skull_shrine_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\slimes_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\slimes_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\snakes_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\snakes_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\snake_queen_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\snake_queen_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\spiders_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\spiders_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\spider_queen_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\spider_queen_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\sprites_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\sprites_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\sprite_god_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\sprite_god_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\stone_walls_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\stone_walls_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\thunder_god_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\thunder_god_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\traps_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\traps_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\trees_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\trees_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\undead_dwarves_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\undead_dwarves_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\undead_hobbits_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\undead_hobbits_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\wooden_walls_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\monster\wooden_walls_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\sorc.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\no_mana.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\archer_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\archer_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\knight_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\knight_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\paladin_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\paladin_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\priest_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\priest_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\rogue_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\rogue_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\samurai_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\samurai_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\warrior_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\warrior_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\wizard_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\player\wizard_hit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\spell\fire_nova.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\spell\fire_spray.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\spell\light_heal.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\spell\magic_nova.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\spell\major_heal.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\use_key.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\use_potion.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\blunt_dagger.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\blunt_sword.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\crossbow.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\dirk.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\double_bow.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\firework.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\fire_bow.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\fire_dagger.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\fire_sword.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\fire_wand.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\glass_sword.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\golden_bow.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\golden_dagger.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\golden_sword.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\heavy_crossbow.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\hells_fire_wand.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\long_sword.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\missile_wand.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\mithril_dagger.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\mithril_sword.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\obsidian_dagger.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\poison_fang_dagger.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\poor_quality_bow.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\sprite_wand.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\wand_of_dark_magic.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\weapon\wand_of_death.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\sorc2.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\sorc3.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\Nexus.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\aldragine.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\bastille.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\dark fallout.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\dedte.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\dojo.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\lab.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\magic.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\magical_theme.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\pirates.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\sorc4.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\Spooky.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\realm.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\crimson.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\catacombs.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\hive.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\safe.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\Spooky2.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\abyss.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\ceme.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\domain.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\epicspiderden.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\jungle.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\locker.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\manor.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\Nexus2.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\oryxcastle.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\oryxchamber.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\snakepit.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\spiderden.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\spriteworld.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\tomb.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\trench.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\udl.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\icecave.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\forest.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\abandoned.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\concealment.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\coreofthehideout.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\draconis.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\galactic.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\stormypalace.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\troll.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\tunnel.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\unspeakable.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\unspeakableboss.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\caverns.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\argual.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\desolate.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\meadow.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\sorc5.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\sfx\music\sorc6.mp3
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\server.exe
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\server.pdb
+C:\Users\votrProject\Desktop\swag\master\votr\server\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\votrProject\Desktop\swag\master\votr\server\obj\x86\Debug\server.exe
+C:\Users\votrProject\Desktop\swag\master\votr\server\obj\x86\Debug\server.pdb
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\app\Languages\en.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\app\globalNews\globalNews.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\package\MysteryBox.xml
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\app\Languages\it.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\app\Languages\fr.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\app\Languages\es.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\app\Languages\ru.txt
+C:\Users\votrProject\Desktop\swag\master\votr\bin\Debug\app\Languages\de.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\app\Languages\en.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\app\globalNews\globalNews.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\init.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\package\391.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\package\393.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\package\392.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\package\Packages.xml
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\deplister.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_bz2.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_com_dotnet.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_curl.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_enchant.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_exif.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_fileinfo.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_gd2.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_gettext.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_gmp.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_imap.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_intl.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_ldap.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_mbstring.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_mysql.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_mysqli.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_pdo_mysql.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_pdo_odbc.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_pdo_pgsql.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_pdo_sqlite.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_pgsql.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ext\php_shmop.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\glib-2.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\gmodule-2.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\icudt54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\icuin54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\icuio54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\icule54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\iculx54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\icutest54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\icutu54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\icuuc54.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\install.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\libeay32.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\libenchant.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\libpq.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\libsasl.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\libssh2.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\lib\enchant\libenchant_ispell.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\lib\enchant\libenchant_myspell.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\license.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\news.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php-cgi.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php-win.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php.gif
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php5apache2_4.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php5phpdbg.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php5ts.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\phpdbg.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\readme-redist-bins.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\snapshot.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\ssleay32.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\sorc prod.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\app\Languages\it.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\app\Languages\fr.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\app\Languages\es.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\app\Languages\ru.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\app\Languages\de.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\package\Mysterybox.xml
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\log4net_server.config
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\dev\php5ts.lib
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\extras\ssl\openssl.cnf
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\phar.phar.bat
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\pharcommand.phar
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php.ini
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\php\php5embed.lib
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\server.cfg
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\Addition.xml
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat0.xml
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\dat1.xml
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\data\EquipmentSets.xml
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\bannednames.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\UnlockedAccounts.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\arrowShoot.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\bladeSwing.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\button_click.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\daggerSwing.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\death_screen (old).mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\death_screen.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\enter_realm.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\error.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\inventory_move_item.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\level_up.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\loot_appears.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\magicShoot.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\abyss_brutes_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\abyss_brutes_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\abyss_demons_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\abyss_demons_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\bats_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\bats_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\beholder_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\beholder_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\blobs_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\blobs_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\cave_pirates_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\cave_pirates_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\chicken_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\chicken_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\cubes_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\cubes_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\cyclops_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\cyclops_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dark_elves_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dark_elves_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\default_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\default_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\demons_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\demons_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\djinn_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\djinn_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dragons_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dragons_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dwarf_god_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dwarf_god_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dwarves_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\dwarves_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\eggs_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\eggs_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\elves_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\elves_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ents_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ents_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\flaming_skulls_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\flaming_skulls_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\flayers_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\flayers_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\flying_brain_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\flying_brain_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ghosts_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ghosts_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ghost_god_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ghost_god_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\goblins_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\goblins_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\golems_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\golems_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\greater_demons_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\greater_demons_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\greater_pit_snakes_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\greater_pit_snakes_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\hobbits_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\hobbits_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\lizard_god_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\lizard_god_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\medusa_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\medusa_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\minion_of_oryx_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\minion_of_oryx_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\mummies_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\mummies_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\night_elves_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\night_elves_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ogres_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\ogres_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\orcs_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\orcs_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\oryx_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\oryx_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pirates_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pirates_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pirate_king_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pirate_king_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pit_snakes_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pit_snakes_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pythons_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\pythons_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\rocks_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\rocks_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\scorpions_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\scorpions_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\skeletons_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\skeletons_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\skull_shrine_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\skull_shrine_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\slimes_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\slimes_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\snakes_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\snakes_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\snake_queen_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\snake_queen_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\spiders_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\spiders_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\spider_queen_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\spider_queen_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\sprites_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\sprites_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\sprite_god_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\sprite_god_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\stone_walls_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\stone_walls_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\thunder_god_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\thunder_god_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\traps_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\traps_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\trees_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\trees_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\undead_dwarves_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\undead_dwarves_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\undead_hobbits_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\undead_hobbits_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\wooden_walls_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\monster\wooden_walls_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\sorc.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\no_mana.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\archer_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\archer_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\knight_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\knight_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\paladin_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\paladin_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\priest_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\priest_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\rogue_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\rogue_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\samurai_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\samurai_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\warrior_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\warrior_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\wizard_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\player\wizard_hit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\spell\fire_nova.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\spell\fire_spray.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\spell\light_heal.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\spell\magic_nova.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\spell\major_heal.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\use_key.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\use_potion.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\blunt_dagger.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\blunt_sword.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\crossbow.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\dirk.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\double_bow.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\firework.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\fire_bow.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\fire_dagger.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\fire_sword.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\fire_wand.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\glass_sword.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\golden_bow.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\golden_dagger.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\golden_sword.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\heavy_crossbow.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\hells_fire_wand.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\long_sword.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\missile_wand.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\mithril_dagger.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\mithril_sword.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\obsidian_dagger.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\poison_fang_dagger.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\poor_quality_bow.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\sprite_wand.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\wand_of_dark_magic.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\weapon\wand_of_death.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\sorc2.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\sorc3.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\Nexus.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\aldragine.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\bastille.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\dark fallout.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\dedte.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\dojo.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\lab.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\magic.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\magical_theme.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\pirates.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\sorc4.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\Spooky.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\realm.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\crimson.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\catacombs.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\hive.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\safe.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\Spooky2.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\abyss.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\ceme.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\domain.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\epicspiderden.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\jungle.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\locker.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\manor.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\Nexus2.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\oryxcastle.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\oryxchamber.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\snakepit.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\spiderden.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\spriteworld.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\tomb.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\trench.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\udl.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\icecave.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\forest.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\abandoned.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\concealment.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\coreofthehideout.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\draconis.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\galactic.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\stormypalace.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\troll.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\tunnel.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\unspeakable.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\unspeakableboss.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\caverns.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\argual.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\desolate.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\meadow.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\sorc5.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\sfx\music\sorc6.mp3
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\server.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\bin\Debug\server.pdb
+C:\Users\darkd\Desktop\New folder (3)\master\votr\server\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\darkd\Desktop\New folder (3)\master\votr\server\obj\x86\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\darkd\Desktop\New folder (3)\master\votr\server\obj\x86\Debug\server.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\server\obj\x86\Debug\server.pdb

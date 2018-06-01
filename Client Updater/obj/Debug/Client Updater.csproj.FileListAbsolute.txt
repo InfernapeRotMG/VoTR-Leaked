@@ -1,0 +1,332 @@
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\Orape.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\Orape.jar
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\Orape.cmd
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\Orape.command
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\60fps.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\autoaim.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\autoaimcall.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\autoaimnotif.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\autonexus.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\drv2_save.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\drv2_var.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\eventnotifier.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\forcelq.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\friendlist_player.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_1.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_10.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_11.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_12.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_2.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_3.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_4.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_5.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_6.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_7.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_8.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\fsv2_9.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\hideplayers.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\hideshadows.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\hpbar.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_addprops.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_addstats.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_drawbars.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_localcount.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\inv_patchstats.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\noally.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\noclip.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\noss.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\passescover.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\proxyserver_add.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\proxyserver_func.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\questbar_draw.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\questbar_init.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\questbar_trait.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\realmeye_func.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\roundjitter.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\safewalk.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\swap_call.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\swap_funcs.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\swnoslow.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\mods\swspeed.txt
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\config.ini
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\01.bat
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\02.bat
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\abcexport.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\abcfile.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\asprogram.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\assembler.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\autodata.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\common.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\COPYING
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\disassembler.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\lzma.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\main.o
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\Makefile.win
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\README.md
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swffile.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\rabcdasm\zlibx.d
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\Client Updater.exe.config
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\Client Updater.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\bin\Debug\Client Updater.pdb
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\obj\Debug\Client_Updater.Form1.resources
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\obj\Debug\Client Updater.exe
+C:\Users\votrProject\Desktop\New folder\master\votr\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\Orape.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\Orape.jar
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\Orape.cmd
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\Orape.command
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\60fps.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\autoaim.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\autoaimcall.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\autoaimnotif.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\autonexus.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\drv2_save.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\drv2_var.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\eventnotifier.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\forcelq.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\friendlist_player.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_1.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_10.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_11.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_12.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_2.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_3.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_4.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_5.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_6.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_7.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_8.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\fsv2_9.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\hideplayers.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\hideshadows.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\hpbar.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_addprops.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_addstats.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_drawbars.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_localcount.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\inv_patchstats.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\noally.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\noclip.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\noss.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\passescover.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\proxyserver_add.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\proxyserver_func.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\questbar_draw.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\questbar_init.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\questbar_trait.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\realmeye_func.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\roundjitter.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\safewalk.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\swap_call.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\swap_funcs.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\swnoslow.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\mods\swspeed.txt
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\config.ini
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\01.bat
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\02.bat
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\abcexport.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\abcfile.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\asprogram.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\assembler.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\autodata.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\common.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\COPYING
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\disassembler.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\lzma.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\main.o
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\Makefile.win
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\README.md
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swffile.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\rabcdasm\zlibx.d
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\Client Updater.exe.config
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\Client Updater.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\bin\Debug\Client Updater.pdb
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\obj\Debug\Client_Updater.Form1.resources
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\obj\Debug\Client Updater.exe
+C:\Users\votrProject\Desktop\swag\master\votr\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\Orape.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\Orape.jar
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\Orape.cmd
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\Orape.command
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\60fps.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\autoaim.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\autoaimcall.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\autoaimnotif.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\autoaimshootfix.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\autonexus.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\drv2_dispatch.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\drv2_save.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\drv2_var.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\eventnotifier.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\forcelq.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\friendlist_locklist.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\friendlist_minimap.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\friendlist_player.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_1.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_10.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_11.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_12.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_2.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_3.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_4.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_5.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_6.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_7.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_8.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\fsv2_9.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\hideplayers.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\hideshadows.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\hpbar.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_addprops.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_addstats.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_add_inventory.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_adjust_text.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_drawbars.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_localcount.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_make_xp_fame_bars.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\inv_patchstats.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\noally.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\noclip.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\noss.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\passescover.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\proxyserver_add.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\proxyserver_func.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\questbar_draw.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\questbar_init.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\questbar_trait.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\realmeye_addmenu.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\realmeye_func.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\realmeye_sbmod.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\realmeye_sbparams.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\roundjitter.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\safewalk.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\swap_call.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\swap_funcs.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\swnoslow.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\mods\swspeed.txt
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\abcexport.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\abcreplace.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\liblzma.dll
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\rabcasm.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm_easy.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swf7zcompress.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinexport.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinreplace.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swfdecompress.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swflzmacompress.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\config.ini
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\01.bat
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\02.bat
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\03 xml export.bat
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\abcexport.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\abcfile.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\abcreplace.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\asasm.hrc
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\asprogram.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\assembler.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\autodata.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\build_rabcdasm.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\CHANGELOG.md
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\common.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\COPYING
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\disassembler.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\liblzma.lib
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\lzma.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\main.o
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\Makefile.win
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\murmurhash2a.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\rabcasm.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\rabcdasm.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\README.md
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swf7zcompress.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinexport.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swfbinreplace.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swfdecompress.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swffile.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\swflzmacompress.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\rabcdasm\zlibx.d
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\Client Updater.exe.config
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\Client Updater.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\bin\Debug\Client Updater.pdb
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\obj\Debug\Client_Updater.Form1.resources
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\obj\Debug\Client Updater.csproj.CoreCompileInputs.cache
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\obj\Debug\Client Updater.exe
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\darkd\Desktop\New folder (3)\master\votr\Client Updater\obj\Debug\Client Updater.csprojResolveAssemblyReference.cache

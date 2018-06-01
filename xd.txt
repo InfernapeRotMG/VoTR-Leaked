@@ -1,0 +1,137 @@
+ Aldragine's Hideout
+--------------------------------------------------------------- 
+Secrets:  
+Sincryer's Demise  Location: The Nontridus 
+Treasure Room:  Location: Keeping of Aldragine
+Extra Materials: The Nontridus
+Voice of Terradius: Aldragine's Hideout (Portals)
+
+Bosses: 
+Ganus, the Sincryer
+Nirux, Vision of Aldragine
+Heart of the Hideout
+Aldragine
+
+Drops of Interest:
+Wisdom Eon
+Attack Eon
+
+Phases: 
+Aldragine's Hideout (Portals)
+Sincryers Gate
+The Nontridus
+Heart of the Hideout
+Keeping of Aldragine
+===================            
+ The Zol Awakening
+ 
+ Bastille of Drannol
+---------------------------------------------------------------
+Secrets:  
+Wrath of Aldragine OR Raging Waraxe   Location: Fortress Siege 
+Treasure Room:  Location: Drannol's Chamber
+Extra Materials: Fortress Siege
+Extra Materials: The Cage
+Treasure Room 2: Bastille of Drannol
+
+Bosses: 
+Berikao, the Darkhunter
+The Fort Defender
+Eraix, the Horde
+Drannol, Titan of Immortals
+
+Drops of Interest:
+Defense Eon
+Vitality Eon 
+
+Phases:
+Bastille of Drannol (Orbs/Berikao)
+Prey of Berikao
+Fortress Siege
+The Cage
+Drannol's Chamber
+===================            
+ Calling of the Titan
+ 
+  The Lost Chasm
+  ---------------------------------------------------------------
+Secrets:  
+Grasp of Elysium OR Vulcanstriker  Location: The Chasm Depths 3
+Treasure Room:  Location: The Chasm Depths 4
+Extra Materials: The Chasm Depths 2
+Voice of Terradius: The Chasm Depths 4
+
+Bosses:
+Tradgix, the Terrorcaller OR The Fallen Reborn
+The Dark Knight Reborn OR Nazraw of the Depths
+Triguardians
+Corrupted Lightstone
+
+Drops of Interest:
+Speed Eon
+Dexterity Eon
+Mana Eon
+
+Phases:
+The Chasm Depths 1
+The Chasm Depths 2
+The Chasm Depths 3
+The Chasm Depths 4
+The Chasm Depths 5
+===================            
+ A Fallen Light
+ 
+   War of Decades
+   ---------------------------------------------------------------
+Secrets: 
+ 
+Words of Wisdom  Location: Cursed Fields
+Treasure Room:  Location: The Ship's Hub
+
+Bosses:
+Hand of Terradius 
+Hand of Terradius OR Anger of Terradius
+Army of Terradius
+Terradius, the Earth Devourer
+
+Drops of Interest:
+Wisdom Eon
+Life Eon
+
+Phases:
+Cursed Fields 1
+Cursed Fields 2
+The Ship's Boarding
+The Ship's Hub
+Central of Command
+===================            
+ Cursed Earth: A Doomed Genesis
+ 
+ Tower of Despair 
+ ---------------------------------------------------------------
+Secrets: 
+ 
+Enchanting Room  Location: The Gauntlet
+Treasure Rooms:  Location: Tower of Despair Levels 1 - 6
+
+Bosses:
+Gauntlet Boss Lineup
+Sidon, Father of Oryx
+
+Drops of Interest:
+Eon
+Enchanting Tablet
+T8 Abilities
+T7 Rings
+
+Phases:
+The Tower 1
+The Tower 2
+The Tower 3
+The Tower 4
+The Tower 5
+The Tower 6
+Battle of Sidon
+Uprising
+===================            
+ Sidon's Fall

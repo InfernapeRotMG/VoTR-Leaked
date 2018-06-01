@@ -1,0 +1,22 @@
+2017-09-02 13:41:01,746 [Entry] WARN  db.data.XmlData - 0x57b4 and 0x56b3 has the same name of Panda Pet Skin!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'King Boo Pet Skin' and 'Pumpkin King of Peril' has the same ID of 0x57b6!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Dark Reaper Pet Skin' and 'Pumpkin Seed Bullet' has the same ID of 0x57b7!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Green Dragon Pet Skin' and 'Skull Helm' has the same ID of 0x57b8!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Evil Skull Pet Skin' and 'Colossal Skull' has the same ID of 0x57b9!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'ExaDrago Pet Skin' and 'Phen Disc' has the same ID of 0x57ba!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Anglerfish Pet Skin' and 'Indecisive Power' has the same ID of 0x57bb!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Kirby Pet Skin' and 'Staff of Indecisive Maneuvers' has the same ID of 0x57bc!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Parasite Pet Skin' and 'Blueshade Shield' has the same ID of 0x57bd!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Cosmic Wanderer Pet Skin' and 'Bedder Shield' has the same ID of 0x57be!
+2017-09-02 13:41:01,747 [Entry] WARN  db.data.XmlData - 'Squid God Pet Skin' and 'Flamebred Robe' has the same ID of 0x57bf!
+2017-09-02 13:41:08,111 [Entry] WARN  db.data.XmlData - 0x57b4 and 0x56b3 has the same name of Panda Pet Skin!
+2017-09-02 13:41:08,111 [Entry] WARN  db.data.XmlData - 'King Boo Pet Skin' and 'Pumpkin King of Peril' has the same ID of 0x57b6!
+2017-09-02 13:41:08,111 [Entry] WARN  db.data.XmlData - 'Dark Reaper Pet Skin' and 'Pumpkin Seed Bullet' has the same ID of 0x57b7!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'Green Dragon Pet Skin' and 'Skull Helm' has the same ID of 0x57b8!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'Evil Skull Pet Skin' and 'Colossal Skull' has the same ID of 0x57b9!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'ExaDrago Pet Skin' and 'Phen Disc' has the same ID of 0x57ba!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'Anglerfish Pet Skin' and 'Indecisive Power' has the same ID of 0x57bb!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'Kirby Pet Skin' and 'Staff of Indecisive Maneuvers' has the same ID of 0x57bc!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'Parasite Pet Skin' and 'Blueshade Shield' has the same ID of 0x57bd!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'Cosmic Wanderer Pet Skin' and 'Bedder Shield' has the same ID of 0x57be!
+2017-09-02 13:41:08,112 [Entry] WARN  db.data.XmlData - 'Squid God Pet Skin' and 'Flamebred Robe' has the same ID of 0x57bf!
